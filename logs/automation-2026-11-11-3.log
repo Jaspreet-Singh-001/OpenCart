@@ -1,0 +1,485 @@
+14:10:42.306 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for vwyvjakt1794386442306@gmail.com
+14:10:44.605 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for vwyvjakt1794386442306@gmail.com
+14:10:45.302 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 51
+14:10:45.308 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+14:10:45.830 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for xmktrtdt1794386445829@gmail.com
+14:10:48.575 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for xmktrtdt1794386445829@gmail.com
+14:10:49.273 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 52
+14:10:49.277 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.277 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:10:49.277 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.369 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:10:49.370 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:10:49.370 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.370 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:10:49.370 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.375 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.376 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:10:49.377 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:49.377 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:10:49.377 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:10:49.378 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:10:49.379 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:10:49.379 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:10:49.880 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:10:49.880 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:10:49.880 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:10:49.928 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:10:49.946 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:10:50.005 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:10:50.006 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:10:50.881 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:10:50.900 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:10:50.900 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:50.901 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:10:50.901 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:10:51.925 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+14:10:55.503 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+14:10:58.283 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+14:11:01.232 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+14:11:01.919 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+14:11:02.581 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.582 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:11:02.582 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.658 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:11:02.660 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:11:02.660 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.660 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:11:02.660 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.661 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.661 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:11:02.661 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:02.661 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:11:02.662 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:11:02.663 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:11:02.663 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:11:02.663 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:11:03.118 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:11:03.118 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:11:03.118 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:11:03.160 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:11:03.183 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:11:03.241 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:11:03.241 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:11:04.231 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:11:04.248 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:11:04.248 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:04.248 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:11:04.248 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:04.252 [TestNG-tests-1] INFO  testBase.BaseClass - Starting simple login test
+14:11:07.209 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded
+14:11:07.769 [TestNG-tests-1] INFO  testBase.BaseClass - Simple login test completed
+14:11:07.771 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.772 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:11:07.772 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.855 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:11:07.856 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:11:07.856 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.856 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:11:07.856 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.859 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.859 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:11:07.859 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:07.859 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:11:07.859 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:11:07.860 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:11:07.861 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:11:07.861 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:11:08.348 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:11:08.348 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:11:08.348 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:11:08.400 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:11:08.420 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:11:08.471 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:11:08.471 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:11:09.400 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:11:09.416 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:11:09.416 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:09.416 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:11:09.416 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:09.806 [TestNG-tests-1] INFO  testBase.BaseClass - Loaded the latest 5 generated accounts from Sheet3
+14:11:13.494 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 1
+14:11:16.601 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 2
+14:11:19.766 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 3
+14:11:22.825 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 4
+14:11:26.148 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 5
+14:11:26.721 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:26.723 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:11:26.723 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:26.814 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:11:26.815 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:11:26.815 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:26.816 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:11:26.816 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:11:27.011 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_141015_303.html
+14:30:15.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grid-docker.xml
+
+14:30:16.205 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Chrome_20261111_143015_859.html
+14:30:16.205 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Firefox_20261111_143015_859.html
+14:30:16.363 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:16.365 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:16.365 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:16.367 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:16.365 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:16.372 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:16.371 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:16.375 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:16.376 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:16.377 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:16.383 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:16.383 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:16.385 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:16.386 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:30:16.385 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:16.412 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: firefox
+14:30:21.355 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:30:21.356 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:30:21.357 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:21.471 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:30:21.503 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:21.574 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:21.574 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:30:22.816 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:30:22.876 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:22.877 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:22.881 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:22.881 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:22.922 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+14:30:23.002 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+14:30:23.225 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+14:30:23.578 [TestNG-tests-2] INFO  testBase.BaseClass - Remote WebDriver requested: browser=firefox, os=Linux, grid=http://localhost:4444
+14:30:23.580 [TestNG-tests-2] INFO  testBase.BaseClass - firefox browser launched successfully
+14:30:23.580 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:23.908 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+14:30:24.030 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+14:30:24.062 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:24.133 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:24.133 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+14:30:25.240 [TestNG-tests-1] INFO  testBase.BaseClass - Selecting newsletter option
+14:30:25.499 [TestNG-tests-1] INFO  testBase.BaseClass - Accepting Privacy Policy
+14:30:25.548 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+14:30:25.652 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:25.652 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:25.652 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:25.652 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:25.668 [TestNG-tests-2] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+14:30:25.672 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on My Account
+14:30:25.895 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration form
+14:30:26.088 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on Register
+14:30:27.964 [TestNG-tests-2] INFO  testBase.BaseClass - Entering registration details
+14:30:28.928 [TestNG-tests-2] INFO  testBase.BaseClass - Selecting newsletter option
+14:30:29.133 [TestNG-tests-2] INFO  testBase.BaseClass - Accepting Privacy Policy
+14:30:29.293 [TestNG-tests-2] INFO  testBase.BaseClass - Submitting registration form
+14:30:29.937 [TestNG-tests-1] INFO  testBase.BaseClass - Verifying registration confirmation message
+14:30:29.942 [TestNG-tests-1] INFO  testBase.BaseClass - Registration test passed successfully
+14:30:29.944 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+14:30:29.981 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:29.981 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:30:29.981 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:30.082 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:30:30.083 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:30:30.084 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:30.084 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:30:30.084 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:30.090 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:30.090 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:30.091 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:30.091 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:30.091 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:30.092 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:30.093 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:30.093 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:30:31.118 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:30:31.119 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:30:31.120 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:31.198 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:30:31.234 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:31.294 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:31.295 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:30:32.898 [TestNG-tests-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+14:30:32.899 [TestNG-tests-2] INFO  testBase.BaseClass - Registration test passed successfully
+14:30:32.899 [TestNG-tests-2] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+14:30:32.964 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:32.964 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:30:32.964 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:33.359 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:30:33.445 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:33.445 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:33.445 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:33.445 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:33.452 [TestNG-tests-1] INFO  testBase.BaseClass - Starting simple login test
+14:30:35.153 [TestNG-tests-2] INFO  testBase.BaseClass - Browser closed successfully
+14:30:35.155 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver reference set to null
+14:30:35.156 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:35.156 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:30:35.167 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:35.169 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:35.169 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:35.169 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:35.175 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:35.176 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:35.184 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:35.184 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:35.185 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: firefox
+14:30:37.758 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded
+14:30:38.392 [TestNG-tests-1] INFO  testBase.BaseClass - Simple login test completed
+14:30:38.399 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:38.399 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:30:38.399 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:38.523 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:30:38.523 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:30:38.523 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:38.523 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:30:38.523 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:39.707 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Chrome_20261111_143015_859.html
+14:30:40.142 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_143040_140.html
+14:30:40.158 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:40.159 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:40.159 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:40.159 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:40.160 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:40.161 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:40.162 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:40.162 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:30:42.079 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:30:42.079 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:30:42.080 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:42.306 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:30:42.376 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:42.409 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:42.409 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:30:42.928 [TestNG-tests-2] INFO  testBase.BaseClass - Remote WebDriver requested: browser=firefox, os=Linux, grid=http://localhost:4444
+14:30:42.929 [TestNG-tests-2] INFO  testBase.BaseClass - firefox browser launched successfully
+14:30:42.929 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:43.293 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+14:30:43.351 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:43.392 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:43.392 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+14:30:44.010 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:30:44.070 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:44.071 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:44.071 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:44.071 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:44.080 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+14:30:44.082 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+14:30:44.530 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+14:30:45.249 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+14:30:45.288 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:45.288 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:45.288 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:45.290 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:45.293 [TestNG-tests-2] INFO  testBase.BaseClass - Starting simple login test
+14:30:46.480 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+14:30:49.358 [TestNG-tests-1] INFO  testBase.BaseClass - Selecting newsletter option
+14:30:49.689 [TestNG-tests-1] INFO  testBase.BaseClass - Accepting Privacy Policy
+14:30:50.200 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration form
+14:30:51.629 [TestNG-tests-2] INFO  testBase.BaseClass - Login succeeded
+14:30:52.601 [TestNG-tests-1] INFO  testBase.BaseClass - Verifying registration confirmation message
+14:30:52.601 [TestNG-tests-1] INFO  testBase.BaseClass - Registration test passed successfully
+14:30:52.601 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+14:30:52.608 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.609 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:30:52.610 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.705 [TestNG-tests-2] INFO  testBase.BaseClass - Simple login test completed
+14:30:52.714 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:52.715 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+14:30:52.716 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:52.856 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+14:30:52.857 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+14:30:52.857 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.857 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:30:52.857 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.860 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.860 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:30:52.860 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:52.860 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:30:52.861 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:30:52.862 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:30:52.864 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:30:52.864 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+14:30:54.529 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+14:30:54.530 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+14:30:54.530 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+14:30:54.606 [TestNG-tests-2] INFO  testBase.BaseClass - Browser closed successfully
+14:30:54.607 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver reference set to null
+14:30:54.607 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:54.607 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+14:30:54.607 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+14:30:54.844 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+14:30:54.987 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+14:30:55.022 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+14:30:55.022 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+14:30:55.246 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Firefox_20261111_143015_859.html
+14:30:56.521 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+14:30:56.595 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+14:30:56.596 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:56.596 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+14:30:56.596 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+14:30:56.613 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+14:30:57.922 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for junsftmh1794387657920@gmail.com
+14:31:02.136 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for junsftmh1794387657920@gmail.com
+14:31:04.809 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 53
+14:31:04.815 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+14:31:06.098 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for anwcfnqn1794387666098@gmail.com
+14:31:11.688 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for anwcfnqn1794387666098@gmail.com
+15:05:07.543 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 54
+15:05:07.692 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+15:05:08.319 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for dslnunhm1794389708319@gmail.com
+17:53:30.599 [TestNG-tests-1] ERROR testBase.BaseClass - Registration DDT failed
+org.openqa.selenium.TimeoutException: Timeout when executing request (POST http://localhost:4444/session/e08ae673a1fbe3f80b05e69ea063e08d/element)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e08ae673a1fbe3f80b05e69ea063e08d, findElement {using=id, value=input-firstname}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.38, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: /tmp/org.chromium.Chromium....}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34631}, goog:processID: 766, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 157.0.8103.38, se:containerName: 9c271787faeb, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86..., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e08ae673a1fbe3f80b05e69ea063e08d
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:46)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$0(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$0(JdkHttpClient.java:401)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.net.http.HttpTimeoutException: request timed out
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:895)
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:475)
+	... 8 more
+17:56:54.049 [TestNG-tests-1] WARN  utilities.ExtentReportManager - Could not attach a screenshot for registrationDDT
+org.openqa.selenium.TimeoutException: Timeout when executing request (GET http://localhost:4444/session/e08ae673a1fbe3f80b05e69ea063e08d/screenshot)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e08ae673a1fbe3f80b05e69ea063e08d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.38, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: /tmp/org.chromium.Chromium....}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34631}, goog:processID: 766, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 157.0.8103.38, se:containerName: 9c271787faeb, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86..., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e08ae673a1fbe3f80b05e69ea063e08d
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:46)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$0(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$0(JdkHttpClient.java:401)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.net.http.HttpTimeoutException: request timed out
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:895)
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:475)
+	... 8 more
+17:56:54.229 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+17:57:07.856 [TestNG-tests-1] ERROR testBase.BaseClass - Registration DDT failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='My Account']"}
+  (Session info: chrome=157.0.8103.38)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e08ae673a1fbe3f80b05e69ea063e08d, findElement {using=xpath, value=//a[@title='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.38, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: /tmp/org.chromium.Chromium....}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34631}, goog:processID: 766, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 157.0.8103.38, se:containerName: 9c271787faeb, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86..., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e08ae673a1fbe3f80b05e69ea063e08d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:52)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:441)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:435)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
+	at pageObjects.homePage.clickMyAccountButton(homePage.java:25)
+	at testCases.TC002_OpenCartRegistrationDDT.registrationDDT(TC002_OpenCartRegistrationDDT.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:57:08.345 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+17:57:18.438 [TestNG-tests-1] ERROR testBase.BaseClass - Registration DDT failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='My Account']"}
+  (Session info: chrome=157.0.8103.38)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e08ae673a1fbe3f80b05e69ea063e08d, findElement {using=xpath, value=//a[@title='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.38, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: /tmp/org.chromium.Chromium....}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34631}, goog:processID: 766, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 157.0.8103.38, se:containerName: 9c271787faeb, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86..., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e08ae673a1fbe3f80b05e69ea063e08d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:52)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:441)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:435)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
+	at pageObjects.homePage.clickMyAccountButton(homePage.java:25)
+	at testCases.TC002_OpenCartRegistrationDDT.registrationDDT(TC002_OpenCartRegistrationDDT.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:57:18.733 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.733 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:57:18.734 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.926 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:57:18.927 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:57:18.927 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.927 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:57:18.927 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.932 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.933 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:57:18.933 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:18.933 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:57:18.933 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:57:18.936 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:57:18.937 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:57:18.937 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:57:20.813 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444

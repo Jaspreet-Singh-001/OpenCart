@@ -1,0 +1,518 @@
+17:04:51.121 [TestNG-tests-2] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:04:51.133 [TestNG-tests-2] WARN  utilities.ExtentReportManager - Could not attach a screenshot for registrationTest
+java.lang.IllegalStateException: Cannot capture a screenshot without an active browser.
+	at testBase.BaseClass.captureScreen(BaseClass.java:196)
+	at utilities.ExtentReportManager.attachFailureScreenshot(ExtentReportManager.java:167)
+	at utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:85)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:296)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:787)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:04:51.137 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:04:51.137 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:04:51.137 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:04:51.137 [TestNG-tests-2] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+17:04:51.138 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:04:51.138 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:04:51.138 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:04:51.220 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_170437_747.html
+17:05:01.142 [TestNG-tests-1] ERROR testBase.BaseClass - Registration test failed due to an exception
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=157.0.8103.39)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1af48f52f5507f9e7670b003222883ca, clickElement {id=f.4DB3DF5281B00C3168CDEBD975CCBC97.d.B0587179015ED44CBC4577B4460FC5E8.e.31}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.39, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: C:\Users\JASPRE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62101}, goog:processID: 34996, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62101/devtoo..., se:cdpVersion: 157.0.8103.39, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1af48f52f5507f9e7670b003222883ca)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 1af48f52f5507f9e7670b003222883ca
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
+	at pageObjects.homePage.clickRegisterButton(homePage.java:29)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:01.143 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:05:01.145 [TestNG-tests-1] WARN  utilities.ExtentReportManager - Could not attach a screenshot for registrationTest
+java.lang.IllegalStateException: Cannot capture a screenshot without an active browser.
+	at testBase.BaseClass.captureScreen(BaseClass.java:196)
+	at utilities.ExtentReportManager.attachFailureScreenshot(ExtentReportManager.java:167)
+	at utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:85)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:296)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:787)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:01.147 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:01.147 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:05:01.147 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:01.147 [TestNG-tests-1] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+17:05:01.148 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:01.148 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:05:01.148 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:01.211 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_170437_746.html
+17:05:24.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\crossBrowserTesting.xml
+
+17:05:24.521 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_170524_332.html
+17:05:24.521 [TestNG-tests-3] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_firefoxTest_20261109_170524_332.html
+17:05:24.521 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_170524_332.html
+17:05:24.557 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:24.557 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:24.557 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:24.557 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:05:24.557 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:05:24.557 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:05:24.558 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:24.558 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:24.558 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:05:24.558 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:24.558 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:05:24.558 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:05:24.558 [TestNG-tests-3] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:05:24.558 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:05:24.558 [TestNG-tests-3] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:05:24.559 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:05:24.559 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:05:24.559 [TestNG-tests-3] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:05:24.560 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:05:24.560 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:05:24.560 [TestNG-tests-3] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:05:24.560 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: edge
+17:05:24.560 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:05:24.560 [TestNG-tests-3] INFO  testBase.BaseClass - Selected browser: firefox
+17:05:26.461 [TestNG-tests-2] INFO  testBase.BaseClass - edge browser launched successfully
+17:05:26.462 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+17:05:26.521 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:05:26.522 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:05:26.539 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+17:05:26.597 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:05:26.611 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+17:05:26.659 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:05:26.659 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:05:26.660 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+17:05:27.724 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:05:27.724 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+17:05:27.724 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:05:27.744 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:05:27.744 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:27.744 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:05:27.744 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:27.769 [TestNG-tests-2] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:05:27.805 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on My Account
+17:05:27.964 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:05:28.049 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:05:28.049 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:28.049 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:05:28.049 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:28.052 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:05:28.057 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+17:05:28.191 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on Register
+17:05:28.317 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+17:05:31.260 [TestNG-tests-3] INFO  testBase.BaseClass - firefox browser launched successfully
+17:05:31.260 [TestNG-tests-3] INFO  testBase.BaseClass - WebDriver initialized: true
+17:05:31.286 [TestNG-tests-3] INFO  testBase.BaseClass - Browser window maximized
+17:05:31.315 [TestNG-tests-3] INFO  testBase.BaseClass - All browser cookies deleted
+17:05:31.327 [TestNG-tests-3] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:05:31.327 [TestNG-tests-3] INFO  testBase.BaseClass - Navigating to application...
+17:05:32.475 [TestNG-tests-3] INFO  testBase.BaseClass - Application opened successfully
+17:05:32.491 [TestNG-tests-3] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:05:32.492 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:32.492 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:05:32.492 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:32.498 [TestNG-tests-3] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:05:32.501 [TestNG-tests-3] INFO  testBase.BaseClass - Clicking on My Account
+17:05:32.755 [TestNG-tests-3] INFO  testBase.BaseClass - Clicking on Register
+17:05:33.424 [TestNG-tests-3] INFO  testBase.BaseClass - Entering registration details
+17:05:34.016 [TestNG-tests-3] INFO  testBase.BaseClass - Selecting newsletter option
+17:05:34.166 [TestNG-tests-3] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:05:34.244 [TestNG-tests-3] INFO  testBase.BaseClass - Submitting registration form
+17:05:37.315 [TestNG-tests-3] INFO  testBase.BaseClass - Verifying registration confirmation message
+17:05:37.318 [TestNG-tests-3] INFO  testBase.BaseClass - Registration test passed successfully
+17:05:37.318 [TestNG-tests-3] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:05:37.338 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:37.338 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:05:37.338 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:38.358 [TestNG-tests-2] ERROR testBase.BaseClass - Registration test failed due to an exception
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=157.0.8103.39)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fd9b3efb7300d4e9995c8f85392bc246, clickElement {id=f.C03160F12BBB9E154648C77E1864E0CC.d.286142B9265A473B786B2706FE29A1B6.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.39, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: C:\Users\JASPRE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64025}, goog:processID: 32564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64025/devtoo..., se:cdpVersion: 157.0.8103.39, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (fd9b3efb7300d4e9995c8f85392bc246)] -> xpath: //a[normalize-space()='Register']]
+Session ID: fd9b3efb7300d4e9995c8f85392bc246
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source)
+	at pageObjects.homePage.clickRegisterButton(homePage.java:29)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:38.371 [TestNG-tests-2] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:05:38.496 [TestNG-tests-2] WARN  utilities.ExtentReportManager - Could not attach a screenshot for registrationTest
+org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [23dfba57-b38d-43e0-948d-41c6cf2e1eff, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 159.0.1, moz:accessibilityChecks: false, moz:buildID: 20261102144711, moz:geckodriverVersion: 0.37.1, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8468, moz:profile: C:\Users\JASPRE~1\AppData\L..., moz:shutdownTimeout: 73000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 23dfba57-b38d-43e0-948d-41c6cf2e1eff
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:771)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:775)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:407)
+	at testBase.BaseClass.captureScreen(BaseClass.java:204)
+	at utilities.ExtentReportManager.attachFailureScreenshot(ExtentReportManager.java:167)
+	at utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:85)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:296)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:787)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:38.501 [TestNG-tests-3] INFO  testBase.BaseClass - Browser closed successfully
+17:05:38.502 [TestNG-tests-3] INFO  testBase.BaseClass - WebDriver reference set to null
+17:05:38.502 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:38.502 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:05:38.502 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:05:38.508 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:38.508 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:05:38.509 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:38.509 [TestNG-tests-2] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+17:05:38.509 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:38.509 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:05:38.509 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:05:39.392 [TestNG-tests-3] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_firefoxTest_20261109_170524_332.html
+17:05:39.401 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_170524_332.html
+17:05:46.446 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+17:05:46.456 [TestNG-tests-1] ERROR testBase.BaseClass - Registration test failed due to an exception
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=157.0.8103.39)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.20.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fd9b3efb7300d4e9995c8f85392bc246, findElement {value=input-firstname, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 157.0.8103.39, chrome: {chromedriverVersion: 157.0.8103.38 (a733b5afbb3b..., userDataDir: C:\Users\JASPRE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64025}, goog:processID: 32564, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64025/devtoo..., se:cdpVersion: 157.0.8103.39, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd9b3efb7300d4e9995c8f85392bc246
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:67)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:441)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:435)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy31.sendKeys(Unknown Source)
+	at pageObjects.registerPage.setFirstName(registerPage.java:46)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:46.461 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:05:46.468 [TestNG-tests-1] WARN  utilities.ExtentReportManager - Could not attach a screenshot for registrationTest
+java.lang.IllegalStateException: Cannot capture a screenshot without an active browser.
+	at testBase.BaseClass.captureScreen(BaseClass.java:196)
+	at utilities.ExtentReportManager.attachFailureScreenshot(ExtentReportManager.java:167)
+	at utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:85)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:296)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:787)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+17:05:46.477 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:46.477 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:05:46.477 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:46.477 [TestNG-tests-1] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+17:05:46.478 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:46.478 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:05:46.478 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:05:46.553 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_170524_332.html
+17:15:12.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\crossBrowserTesting.xml
+
+17:15:13.203 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_171513_015.html
+17:15:13.203 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_171513_014.html
+17:15:13.203 [TestNG-tests-3] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_firefoxTest_20261109_171513_014.html
+17:15:13.236 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:13.236 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:13.236 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:13.236 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:15:13.236 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:15:13.236 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:15:13.236 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:13.237 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:13.237 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:13.237 [TestNG-tests-3] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:15:13.237 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:15:13.237 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:15:13.237 [TestNG-tests-3] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:15:13.237 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:15:13.237 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:15:13.238 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:15:13.238 [TestNG-tests-3] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:15:13.238 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:15:13.238 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:15:13.238 [TestNG-tests-3] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:15:13.238 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:15:13.238 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:15:13.238 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: edge
+17:15:13.238 [TestNG-tests-3] INFO  testBase.BaseClass - Selected browser: firefox
+17:15:14.583 [TestNG-tests-2] INFO  testBase.BaseClass - edge browser launched successfully
+17:15:14.583 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+17:15:14.711 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+17:15:14.747 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+17:15:14.758 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:15:14.758 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+17:15:15.026 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:15:15.026 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:15:15.085 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:15:15.327 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:15:15.334 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:15:15.334 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:15:15.858 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+17:15:15.869 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:15:15.869 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:15.869 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:15:15.871 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:15.887 [TestNG-tests-2] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:15:15.908 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on My Account
+17:15:16.013 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on Register
+17:15:16.603 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:15:16.616 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:15:16.616 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:16.616 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:15:16.617 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:16.621 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:15:16.623 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+17:15:16.730 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+17:15:16.747 [TestNG-tests-2] INFO  testBase.BaseClass - Entering registration details
+17:15:17.207 [TestNG-tests-2] INFO  testBase.BaseClass - Selecting newsletter option
+17:15:17.250 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+17:15:17.277 [TestNG-tests-2] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:15:17.349 [TestNG-tests-2] INFO  testBase.BaseClass - Submitting registration form
+17:15:17.824 [TestNG-tests-1] INFO  testBase.BaseClass - Selecting newsletter option
+17:15:17.888 [TestNG-tests-1] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:15:17.948 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration form
+17:15:18.270 [TestNG-tests-3] INFO  testBase.BaseClass - firefox browser launched successfully
+17:15:18.270 [TestNG-tests-3] INFO  testBase.BaseClass - WebDriver initialized: true
+17:15:18.288 [TestNG-tests-3] INFO  testBase.BaseClass - Browser window maximized
+17:15:18.330 [TestNG-tests-3] INFO  testBase.BaseClass - All browser cookies deleted
+17:15:18.337 [TestNG-tests-3] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:15:18.337 [TestNG-tests-3] INFO  testBase.BaseClass - Navigating to application...
+17:15:20.920 [TestNG-tests-3] INFO  testBase.BaseClass - Application opened successfully
+17:15:20.927 [TestNG-tests-3] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:15:20.928 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:20.928 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:15:20.928 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:20.931 [TestNG-tests-3] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:15:20.932 [TestNG-tests-3] INFO  testBase.BaseClass - Clicking on My Account
+17:15:21.059 [TestNG-tests-3] INFO  testBase.BaseClass - Clicking on Register
+17:15:22.073 [TestNG-tests-3] INFO  testBase.BaseClass - Entering registration details
+17:15:22.259 [TestNG-tests-3] INFO  testBase.BaseClass - Selecting newsletter option
+17:15:22.339 [TestNG-tests-3] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:15:22.411 [TestNG-tests-3] INFO  testBase.BaseClass - Submitting registration form
+17:15:26.778 [TestNG-tests-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+17:15:26.779 [TestNG-tests-2] INFO  testBase.BaseClass - Registration test passed successfully
+17:15:26.779 [TestNG-tests-2] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:15:26.799 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:26.799 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:15:26.800 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:26.855 [TestNG-tests-1] INFO  testBase.BaseClass - Verifying registration confirmation message
+17:15:26.856 [TestNG-tests-1] INFO  testBase.BaseClass - Registration test passed successfully
+17:15:26.857 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:15:26.862 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:26.862 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:15:26.862 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:27.030 [TestNG-tests-3] INFO  testBase.BaseClass - Verifying registration confirmation message
+17:15:27.032 [TestNG-tests-3] INFO  testBase.BaseClass - Registration test passed successfully
+17:15:27.033 [TestNG-tests-3] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:15:27.039 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:27.039 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:15:27.039 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:27.291 [TestNG-tests-2] INFO  testBase.BaseClass - Browser closed successfully
+17:15:27.291 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver reference set to null
+17:15:27.291 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:27.291 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:15:27.291 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:15:27.609 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_171513_015.html
+17:15:28.454 [TestNG-tests-3] INFO  testBase.BaseClass - Browser closed successfully
+17:15:28.455 [TestNG-tests-3] INFO  testBase.BaseClass - WebDriver reference set to null
+17:15:28.455 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:28.455 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:15:28.455 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:15:28.522 [TestNG-tests-3] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_firefoxTest_20261109_171513_014.html
+17:15:28.957 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:15:28.957 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:15:28.957 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:28.958 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:15:28.958 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:15:29.068 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_171513_014.html
+17:32:19.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\crossBrowserTesting.xml
+
+17:32:19.914 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_edgeTest_20261109_173219_771.html
+17:32:19.914 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_chromeTest_20261109_173219_771.html
+17:32:19.914 [TestNG-tests-3] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_firefoxTest_20261109_173219_771.html
+17:32:19.950 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:32:19.950 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:32:19.950 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:32:19.950 [TestNG-tests-3] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:32:19.950 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:32:19.950 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:32:19.950 [TestNG-tests-3] INFO  testBase.BaseClass - =================================================
+17:32:19.950 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:32:19.950 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================

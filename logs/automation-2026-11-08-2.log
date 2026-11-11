@@ -1,0 +1,643 @@
+12:33:51.174 [main] INFO  testBase.BaseClass - Generated Telephone: 8952490037
+12:33:51.193 [main] INFO  testBase.BaseClass - Entering registration details
+12:33:51.566 [main] INFO  testBase.BaseClass - Registration details entered successfully
+12:33:51.566 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+12:33:51.636 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:33:51.688 [main] INFO  testBase.BaseClass - Clicking on Continue button
+12:33:51.749 [main] INFO  testBase.BaseClass - Registration form submitted
+12:33:51.749 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:33:53.072 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+12:33:53.072 [main] INFO  testBase.BaseClass - Registration successful for: eejduwox1794121431174@gmail.com
+12:33:53.073 [main] INFO  testBase.BaseClass - Initializing My Account page
+12:33:53.073 [main] INFO  testBase.BaseClass - Clicking on Logout
+12:33:53.533 [main] INFO  testBase.BaseClass - User logged out successfully
+12:33:53.533 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+12:33:53.569 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+12:33:53.569 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+12:33:53.569 [main] INFO  testBase.BaseClass - Target Excel Row: 13
+12:33:53.884 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+12:33:53.884 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+12:33:53.884 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+12:33:53.887 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+12:33:53.887 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+12:33:53.888 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:53.992 [main] INFO  testBase.BaseClass - Clicking on Register
+12:33:54.285 [main] INFO  testBase.BaseClass - Registration page opened successfully
+12:33:54.286 [main] INFO  testBase.BaseClass - Generating random registration details
+12:33:54.286 [main] INFO  testBase.BaseClass - Generated First Name: KOYTTDLW
+12:33:54.286 [main] INFO  testBase.BaseClass - Generated Last Name: ZRZSLXKO
+12:33:54.287 [main] INFO  testBase.BaseClass - Generated Email: lckethfc1794121434286@gmail.com
+12:33:54.287 [main] INFO  testBase.BaseClass - Generated Telephone: 3940351559
+12:33:54.287 [main] INFO  testBase.BaseClass - Entering registration details
+12:33:54.621 [main] INFO  testBase.BaseClass - Registration details entered successfully
+12:33:54.621 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+12:33:54.714 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:33:54.766 [main] INFO  testBase.BaseClass - Clicking on Continue button
+12:33:54.817 [main] INFO  testBase.BaseClass - Registration form submitted
+12:33:54.817 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:33:55.940 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+12:33:55.940 [main] INFO  testBase.BaseClass - Registration successful for: lckethfc1794121434286@gmail.com
+12:33:55.940 [main] INFO  testBase.BaseClass - Initializing My Account page
+12:33:55.940 [main] INFO  testBase.BaseClass - Clicking on Logout
+12:33:56.370 [main] INFO  testBase.BaseClass - User logged out successfully
+12:33:56.371 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+12:33:56.424 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+12:33:56.424 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+12:33:56.424 [main] INFO  testBase.BaseClass - Target Excel Row: 14
+12:33:56.632 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+12:33:56.632 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+12:33:56.632 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+12:33:56.636 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+12:33:56.637 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+12:33:56.638 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:56.816 [main] INFO  testBase.BaseClass - Clicking on Register
+12:33:57.104 [main] INFO  testBase.BaseClass - Registration page opened successfully
+12:33:57.104 [main] INFO  testBase.BaseClass - Generating random registration details
+12:33:57.105 [main] INFO  testBase.BaseClass - Generated First Name: NMTFAYEO
+12:33:57.105 [main] INFO  testBase.BaseClass - Generated Last Name: NXSTHEZY
+12:33:57.105 [main] INFO  testBase.BaseClass - Generated Email: kwbzgmnq1794121437104@gmail.com
+12:33:57.105 [main] INFO  testBase.BaseClass - Generated Telephone: 9491394160
+12:33:57.105 [main] INFO  testBase.BaseClass - Entering registration details
+12:33:57.626 [main] INFO  testBase.BaseClass - Registration details entered successfully
+12:33:57.626 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+12:33:57.712 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:33:57.777 [main] INFO  testBase.BaseClass - Clicking on Continue button
+12:33:59.227 [main] INFO  testBase.BaseClass - Registration form submitted
+12:33:59.227 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:33:59.245 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+12:33:59.245 [main] INFO  testBase.BaseClass - Registration successful for: kwbzgmnq1794121437104@gmail.com
+12:33:59.245 [main] INFO  testBase.BaseClass - Initializing My Account page
+12:33:59.245 [main] INFO  testBase.BaseClass - Clicking on Logout
+12:33:59.656 [main] INFO  testBase.BaseClass - User logged out successfully
+12:33:59.656 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+12:33:59.701 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+12:33:59.701 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+12:33:59.701 [main] INFO  testBase.BaseClass - Target Excel Row: 15
+12:33:59.842 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+12:33:59.844 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+12:33:59.844 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+12:33:59.847 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+12:33:59.847 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+12:33:59.848 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:59.933 [main] INFO  testBase.BaseClass - Clicking on Register
+12:34:00.302 [main] INFO  testBase.BaseClass - Registration page opened successfully
+12:34:00.303 [main] INFO  testBase.BaseClass - Generating random registration details
+12:34:00.304 [main] INFO  testBase.BaseClass - Generated First Name: QUJSMOYF
+12:34:00.305 [main] INFO  testBase.BaseClass - Generated Last Name: QDWVZAVN
+12:34:00.305 [main] INFO  testBase.BaseClass - Generated Email: zqjdswoc1794121440304@gmail.com
+12:34:00.305 [main] INFO  testBase.BaseClass - Generated Telephone: 8209580750
+12:34:00.305 [main] INFO  testBase.BaseClass - Entering registration details
+12:34:00.596 [main] INFO  testBase.BaseClass - Registration details entered successfully
+12:34:00.596 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+12:34:00.636 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:34:00.680 [main] INFO  testBase.BaseClass - Clicking on Continue button
+12:34:00.730 [main] INFO  testBase.BaseClass - Registration form submitted
+12:34:00.730 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:34:01.790 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+12:34:01.790 [main] INFO  testBase.BaseClass - Registration successful for: zqjdswoc1794121440304@gmail.com
+12:34:01.790 [main] INFO  testBase.BaseClass - Initializing My Account page
+12:34:01.791 [main] INFO  testBase.BaseClass - Clicking on Logout
+12:34:02.222 [main] INFO  testBase.BaseClass - User logged out successfully
+12:34:02.223 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+12:34:02.283 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+12:34:02.283 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+12:34:02.286 [main] INFO  testBase.BaseClass - Target Excel Row: 16
+12:34:02.501 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+12:34:02.503 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+12:34:02.504 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+12:34:02.506 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.507 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:34:02.507 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.720 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:34:02.720 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:34:02.720 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.720 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:34:02.720 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.722 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.722 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:34:02.722 [main] INFO  testBase.BaseClass - =================================================
+12:34:02.722 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:34:02.722 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:34:02.723 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:34:02.723 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:34:02.723 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:34:03.254 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:34:03.255 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:34:03.290 [main] INFO  testBase.BaseClass - Browser window maximized
+12:34:03.300 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:34:03.301 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:34:03.302 [main] INFO  testBase.BaseClass - Navigating to application...
+12:34:04.077 [main] INFO  testBase.BaseClass - Application opened successfully
+12:34:04.085 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:34:04.085 [main] INFO  testBase.BaseClass - =================================================
+12:34:04.085 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:34:04.085 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.292 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.292 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:34:50.293 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.517 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:34:50.517 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:34:50.517 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.517 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:34:50.517 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.518 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.518 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:34:50.518 [main] INFO  testBase.BaseClass - =================================================
+12:34:50.518 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:34:50.518 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:34:50.519 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:34:50.519 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:34:50.519 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:34:51.147 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:34:51.147 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:34:51.204 [main] INFO  testBase.BaseClass - Browser window maximized
+12:34:51.226 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:34:51.227 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:34:51.227 [main] INFO  testBase.BaseClass - Navigating to application...
+12:34:52.955 [main] INFO  testBase.BaseClass - Application opened successfully
+12:34:52.964 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:34:52.964 [main] INFO  testBase.BaseClass - =================================================
+12:34:52.964 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:34:52.964 [main] INFO  testBase.BaseClass - =================================================
+12:34:52.966 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:34:53.339 [main] INFO  testBase.BaseClass - Entering email address: jaspreet.singh@opkey.com
+12:34:55.093 [main] INFO  testBase.BaseClass - Login successful!
+12:34:55.681 [main] INFO  testBase.BaseClass - ===== Simple Login Test Completed Successfully =====
+12:34:55.683 [main] INFO  testBase.BaseClass - =================================================
+12:34:55.685 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:34:55.685 [main] INFO  testBase.BaseClass - =================================================
+12:34:55.895 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:34:55.895 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:34:55.895 [main] INFO  testBase.BaseClass - =================================================
+12:34:55.895 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:34:55.895 [main] INFO  testBase.BaseClass - =================================================
+12:50:36.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\master.xml
+
+12:50:36.414 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:36.415 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:50:36.415 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:36.415 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:50:36.415 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:50:36.416 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:50:36.416 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:50:36.417 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Selected browser: chrome
+12:50:38.070 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - chrome browser launched successfully
+12:50:38.071 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - WebDriver initialized: true
+12:50:38.122 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Browser window maximized
+12:50:38.152 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - All browser cookies deleted
+12:50:38.161 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:50:38.163 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Navigating to application...
+12:50:39.169 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Application opened successfully
+12:50:39.186 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:50:39.187 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:39.187 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:50:39.187 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:52.385 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:52.385 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:50:52.386 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:52.849 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - Browser closed successfully
+12:50:52.849 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - WebDriver reference set to null
+12:50:52.849 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+12:50:52.849 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:50:52.850 [TestNG-test-Parallel Test Execution-1] INFO  testBase.BaseClass - =================================================
+13:00:02.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\registrationLoginDependency.xml
+
+13:00:02.842 [main] INFO  testBase.BaseClass - =================================================
+13:00:02.843 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+13:00:02.843 [main] INFO  testBase.BaseClass - =================================================
+13:00:02.844 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+13:00:02.844 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+13:00:02.845 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+13:00:02.845 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+13:00:02.845 [main] INFO  testBase.BaseClass - Selected browser: chrome
+13:00:03.591 [main] ERROR testBase.BaseClass - TEST SETUP FAILED
+java.io.UncheckedIOException: java.io.IOException: Unable to establish loopback connection
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:490)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.create(HttpClientImpl.java:429)
+	at java.net.http/jdk.internal.net.http.HttpClientBuilderImpl.build(HttpClientBuilderImpl.java:135)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.<init>(JdkHttpClient.java:151)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$Factory.createClient(JdkHttpClient.java:614)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:141)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:88)
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:49)
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:122)
+	at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:112)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:93)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:87)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
+	at testBase.BaseClass.setup(BaseClass.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.TestNG.privateMain(TestNG.java:1430)
+	at org.testng.TestNG.main(TestNG.java:1394)
+Caused by: java.io.IOException: Unable to establish loopback connection
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:101)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:67)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at java.base/sun.nio.ch.PipeImpl.<init>(PipeImpl.java:195)
+	at java.base/sun.nio.ch.WEPollSelectorImpl.<init>(WEPollSelectorImpl.java:78)
+	at java.base/sun.nio.ch.WEPollSelectorProvider.openSelector(WEPollSelectorProvider.java:33)
+	at java.base/java.nio.channels.Selector.open(Selector.java:295)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.<init>(HttpClientImpl.java:1065)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:487)
+	... 39 more
+Caused by: java.net.SocketException: Invalid argument: connect
+	at java.base/sun.nio.ch.UnixDomainSockets.connect0(Native Method)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:148)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:144)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:851)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at java.base/sun.nio.ch.PipeImpl$Initializer$LoopbackConnector.run(PipeImpl.java:131)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:83)
+	... 47 more
+13:00:03.624 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.624 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+13:00:03.624 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.624 [main] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+13:00:03.624 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.624 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+13:00:03.625 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.628 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.629 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+13:00:03.629 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.629 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+13:00:03.629 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+13:00:03.631 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+13:00:03.631 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+13:00:03.631 [main] INFO  testBase.BaseClass - Selected browser: chrome
+13:00:03.793 [main] ERROR testBase.BaseClass - TEST SETUP FAILED
+java.io.UncheckedIOException: java.io.IOException: Unable to establish loopback connection
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:490)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.create(HttpClientImpl.java:429)
+	at java.net.http/jdk.internal.net.http.HttpClientBuilderImpl.build(HttpClientBuilderImpl.java:135)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.<init>(JdkHttpClient.java:151)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$Factory.createClient(JdkHttpClient.java:614)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:141)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:88)
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:49)
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:122)
+	at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:112)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:93)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:87)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
+	at testBase.BaseClass.setup(BaseClass.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.TestNG.privateMain(TestNG.java:1430)
+	at org.testng.TestNG.main(TestNG.java:1394)
+Caused by: java.io.IOException: Unable to establish loopback connection
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:101)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:67)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at java.base/sun.nio.ch.PipeImpl.<init>(PipeImpl.java:195)
+	at java.base/sun.nio.ch.WEPollSelectorImpl.<init>(WEPollSelectorImpl.java:78)
+	at java.base/sun.nio.ch.WEPollSelectorProvider.openSelector(WEPollSelectorProvider.java:33)
+	at java.base/java.nio.channels.Selector.open(Selector.java:295)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.<init>(HttpClientImpl.java:1065)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:487)
+	... 39 more
+Caused by: java.net.SocketException: Invalid argument: connect
+	at java.base/sun.nio.ch.UnixDomainSockets.connect0(Native Method)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:148)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:144)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:851)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at java.base/sun.nio.ch.PipeImpl$Initializer$LoopbackConnector.run(PipeImpl.java:131)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:83)
+	... 47 more
+13:00:03.800 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.801 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+13:00:03.801 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.802 [main] WARN  testBase.BaseClass - Browser session was not initialized; nothing to close
+13:00:03.802 [main] INFO  testBase.BaseClass - =================================================
+13:00:03.802 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+13:00:03.802 [main] INFO  testBase.BaseClass - =================================================
+13:04:28.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\registrationLoginDependency.xml
+
+13:04:28.078 [main] INFO  testBase.BaseClass - =================================================
+13:04:28.078 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+13:04:28.079 [main] INFO  testBase.BaseClass - =================================================
+13:04:28.079 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+13:04:28.079 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+13:04:28.080 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+13:04:28.080 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+13:04:28.080 [main] INFO  testBase.BaseClass - Selected browser: chrome
+13:04:29.982 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+13:04:29.983 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+13:04:30.043 [main] INFO  testBase.BaseClass - Browser window maximized
+13:04:30.061 [main] INFO  testBase.BaseClass - All browser cookies deleted
+13:04:30.077 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+13:04:30.077 [main] INFO  testBase.BaseClass - Navigating to application...
+13:04:31.082 [main] INFO  testBase.BaseClass - Application opened successfully
+13:04:31.095 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+13:04:31.095 [main] INFO  testBase.BaseClass - =================================================
+13:04:31.095 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+13:04:31.096 [main] INFO  testBase.BaseClass - =================================================
+13:04:31.125 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+13:04:31.125 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+13:04:31.159 [main] INFO  testBase.BaseClass - Clicking on My Account
+13:04:31.299 [main] INFO  testBase.BaseClass - Clicking on Register
+13:04:31.759 [main] INFO  testBase.BaseClass - Registration page opened successfully
+13:04:31.760 [main] INFO  testBase.BaseClass - Generating random registration details
+13:04:31.771 [main] INFO  testBase.BaseClass - Generated First Name: HONFZLKW
+13:04:31.771 [main] INFO  testBase.BaseClass - Generated Last Name: VDGVVVMO
+13:04:31.771 [main] INFO  testBase.BaseClass - Generated Email: todpebcx1794123271770@gmail.com
+13:04:31.772 [main] INFO  testBase.BaseClass - Generated Telephone: 7662426615
+13:04:31.772 [main] INFO  testBase.BaseClass - Entering registration details
+13:04:32.508 [main] INFO  testBase.BaseClass - Registration details entered successfully
+13:04:32.508 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+13:04:32.641 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+13:04:32.774 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:04:34.906 [main] INFO  testBase.BaseClass - Registration form submitted
+13:04:34.907 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+13:04:34.984 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+13:04:34.987 [main] INFO  testBase.BaseClass - Registration successful for: todpebcx1794123271770@gmail.com
+13:04:34.987 [main] INFO  testBase.BaseClass - Initializing My Account page
+13:04:34.988 [main] INFO  testBase.BaseClass - Clicking on Logout
+13:04:35.393 [main] INFO  testBase.BaseClass - User logged out successfully
+13:04:35.395 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+13:04:36.409 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+13:04:36.409 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+13:04:36.410 [main] INFO  testBase.BaseClass - Target Excel Row: 17
+13:04:36.995 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+13:04:36.995 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+13:04:36.996 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+13:04:37.005 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+13:04:37.006 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+13:04:37.008 [main] INFO  testBase.BaseClass - Clicking on My Account
+13:04:37.152 [main] INFO  testBase.BaseClass - Clicking on Register
+13:04:37.486 [main] INFO  testBase.BaseClass - Registration page opened successfully
+13:04:37.486 [main] INFO  testBase.BaseClass - Generating random registration details
+13:04:37.494 [main] INFO  testBase.BaseClass - Generated First Name: NXIWJKRL
+13:04:37.495 [main] INFO  testBase.BaseClass - Generated Last Name: FVFQDZVI
+13:04:37.495 [main] INFO  testBase.BaseClass - Generated Email: behuxyoo1794123277489@gmail.com
+13:04:37.497 [main] INFO  testBase.BaseClass - Generated Telephone: 6669001547
+13:04:37.497 [main] INFO  testBase.BaseClass - Entering registration details
+13:04:38.234 [main] INFO  testBase.BaseClass - Registration details entered successfully
+13:04:38.234 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+13:04:38.355 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+13:04:38.478 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:04:38.577 [main] INFO  testBase.BaseClass - Registration form submitted
+13:04:38.578 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+13:04:40.371 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+13:04:40.371 [main] INFO  testBase.BaseClass - Registration successful for: behuxyoo1794123277489@gmail.com
+13:04:40.371 [main] INFO  testBase.BaseClass - Initializing My Account page
+13:04:40.371 [main] INFO  testBase.BaseClass - Clicking on Logout
+13:04:40.746 [main] INFO  testBase.BaseClass - User logged out successfully
+13:04:40.746 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+13:04:40.811 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+13:04:40.812 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+13:04:40.813 [main] INFO  testBase.BaseClass - Target Excel Row: 18
+13:04:41.139 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+13:04:41.142 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+13:04:41.143 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+13:04:41.151 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+13:04:41.152 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+13:04:41.153 [main] INFO  testBase.BaseClass - Clicking on My Account
+13:04:41.331 [main] INFO  testBase.BaseClass - Clicking on Register
+13:04:41.684 [main] INFO  testBase.BaseClass - Registration page opened successfully
+13:04:41.685 [main] INFO  testBase.BaseClass - Generating random registration details
+13:04:41.686 [main] INFO  testBase.BaseClass - Generated First Name: IWLQOHNV
+13:04:41.688 [main] INFO  testBase.BaseClass - Generated Last Name: HVAIPPPW
+13:04:41.689 [main] INFO  testBase.BaseClass - Generated Email: ygbsbbhr1794123281686@gmail.com
+13:04:41.689 [main] INFO  testBase.BaseClass - Generated Telephone: 7122319182
+13:04:41.691 [main] INFO  testBase.BaseClass - Entering registration details
+13:04:42.449 [main] INFO  testBase.BaseClass - Registration details entered successfully
+13:04:42.449 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+13:04:42.580 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+13:04:42.679 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:04:44.001 [main] INFO  testBase.BaseClass - Registration form submitted
+13:04:44.003 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+13:04:44.031 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+13:04:44.032 [main] INFO  testBase.BaseClass - Registration successful for: ygbsbbhr1794123281686@gmail.com
+13:04:44.032 [main] INFO  testBase.BaseClass - Initializing My Account page
+13:04:44.032 [main] INFO  testBase.BaseClass - Clicking on Logout
+13:04:44.504 [main] INFO  testBase.BaseClass - User logged out successfully
+13:04:44.504 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+13:04:44.553 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+13:04:44.555 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+13:04:44.558 [main] INFO  testBase.BaseClass - Target Excel Row: 19
+13:04:44.835 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+13:04:44.835 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+13:04:44.838 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+13:04:44.844 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+13:04:44.845 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+13:04:44.846 [main] INFO  testBase.BaseClass - Clicking on My Account
+13:04:44.968 [main] INFO  testBase.BaseClass - Clicking on Register
+13:04:45.316 [main] INFO  testBase.BaseClass - Registration page opened successfully
+13:04:45.316 [main] INFO  testBase.BaseClass - Generating random registration details
+13:04:45.317 [main] INFO  testBase.BaseClass - Generated First Name: ATGNGPVB
+13:04:45.318 [main] INFO  testBase.BaseClass - Generated Last Name: ZILXQLML
+13:04:45.318 [main] INFO  testBase.BaseClass - Generated Email: dbucrcqj1794123285317@gmail.com
+13:04:45.318 [main] INFO  testBase.BaseClass - Generated Telephone: 4037352440
+13:04:45.318 [main] INFO  testBase.BaseClass - Entering registration details
+13:04:46.100 [main] INFO  testBase.BaseClass - Registration details entered successfully
+13:04:46.101 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+13:04:46.227 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+13:04:46.355 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:04:47.851 [main] INFO  testBase.BaseClass - Registration form submitted
+13:04:47.852 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+13:04:47.895 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+13:04:47.895 [main] INFO  testBase.BaseClass - Registration successful for: dbucrcqj1794123285317@gmail.com
+13:04:47.895 [main] INFO  testBase.BaseClass - Initializing My Account page
+13:04:47.895 [main] INFO  testBase.BaseClass - Clicking on Logout
+13:04:48.341 [main] INFO  testBase.BaseClass - User logged out successfully
+13:04:48.341 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+13:04:48.369 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+13:04:48.369 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+13:04:48.372 [main] INFO  testBase.BaseClass - Target Excel Row: 20
+13:04:48.606 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+13:04:48.607 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+13:04:48.607 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+13:04:48.614 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+13:04:48.614 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+13:04:48.615 [main] INFO  testBase.BaseClass - Clicking on My Account
+13:04:48.819 [main] INFO  testBase.BaseClass - Clicking on Register
+13:04:49.206 [main] INFO  testBase.BaseClass - Registration page opened successfully
+13:04:49.207 [main] INFO  testBase.BaseClass - Generating random registration details
+13:04:49.209 [main] INFO  testBase.BaseClass - Generated First Name: DFEFCEDF
+13:04:49.209 [main] INFO  testBase.BaseClass - Generated Last Name: NUJOTVFB
+13:04:49.211 [main] INFO  testBase.BaseClass - Generated Email: oiupoqbg1794123289209@gmail.com
+13:04:49.211 [main] INFO  testBase.BaseClass - Generated Telephone: 2563360630
+13:04:49.211 [main] INFO  testBase.BaseClass - Entering registration details
+13:04:50.249 [main] INFO  testBase.BaseClass - Registration details entered successfully
+13:04:50.249 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+13:04:50.365 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+13:04:50.510 [main] INFO  testBase.BaseClass - Clicking on Continue button
+13:04:50.702 [main] INFO  testBase.BaseClass - Registration form submitted
+13:04:50.703 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+13:04:51.825 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+13:04:51.826 [main] INFO  testBase.BaseClass - Registration successful for: oiupoqbg1794123289209@gmail.com
+13:04:51.826 [main] INFO  testBase.BaseClass - Initializing My Account page
+13:04:51.826 [main] INFO  testBase.BaseClass - Clicking on Logout
+13:04:52.285 [main] INFO  testBase.BaseClass - User logged out successfully
+13:04:52.285 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+13:04:52.333 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+13:04:52.334 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+13:04:52.336 [main] INFO  testBase.BaseClass - Target Excel Row: 21
+13:04:52.519 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+13:04:52.519 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+13:04:52.519 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+13:04:52.528 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.528 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+13:04:52.529 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.900 [main] INFO  testBase.BaseClass - Browser closed successfully
+13:04:52.901 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+13:04:52.901 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.901 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+13:04:52.901 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.903 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.903 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+13:04:52.903 [main] INFO  testBase.BaseClass - =================================================
+13:04:52.903 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+13:04:52.903 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+13:04:52.904 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+13:04:52.904 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+13:04:52.904 [main] INFO  testBase.BaseClass - Selected browser: chrome
+13:04:53.833 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+13:04:53.834 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+13:04:53.909 [main] INFO  testBase.BaseClass - Browser window maximized
+13:04:53.989 [main] INFO  testBase.BaseClass - All browser cookies deleted
+13:04:53.993 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+13:04:53.994 [main] INFO  testBase.BaseClass - Navigating to application...
+13:04:55.057 [main] INFO  testBase.BaseClass - Application opened successfully
+13:04:55.088 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+13:04:55.088 [main] INFO  testBase.BaseClass - =================================================
+13:04:55.088 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+13:04:55.088 [main] INFO  testBase.BaseClass - =================================================
+13:04:56.147 [main] INFO  testBase.BaseClass - Loaded the latest 5 generated accounts from Sheet3
+13:04:59.387 [main] INFO  testBase.BaseClass - Login succeeded for generated account record 1
+13:05:05.549 [main] INFO  testBase.BaseClass - Login succeeded for generated account record 2
+13:05:10.046 [main] INFO  testBase.BaseClass - Login succeeded for generated account record 3
+13:05:14.069 [main] INFO  testBase.BaseClass - Login succeeded for generated account record 4
+13:05:18.503 [main] INFO  testBase.BaseClass - Login succeeded for generated account record 5
+13:05:19.158 [main] INFO  testBase.BaseClass - =================================================
+13:05:19.158 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+13:05:19.158 [main] INFO  testBase.BaseClass - =================================================
+13:05:19.419 [main] INFO  testBase.BaseClass - Browser closed successfully
+13:05:19.420 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+13:05:19.420 [main] INFO  testBase.BaseClass - =================================================
+13:05:19.420 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+13:05:19.420 [main] INFO  testBase.BaseClass - =================================================
+14:06:02.997 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\registrationLoginDependency.xml
+
+14:06:03.537 [main] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261108_140603_114.html
+14:06:03.588 [main] INFO  testBase.BaseClass - =================================================
+14:06:03.588 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+14:06:03.588 [main] INFO  testBase.BaseClass - =================================================
+14:06:03.588 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+14:06:03.588 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+14:06:03.589 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+14:06:03.589 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+14:06:03.590 [main] INFO  testBase.BaseClass - Selected browser: chrome
+14:06:04.798 [main] ERROR testBase.BaseClass - TEST SETUP FAILED
+java.io.UncheckedIOException: java.io.IOException: Unable to establish loopback connection
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:490)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.create(HttpClientImpl.java:429)
+	at java.net.http/jdk.internal.net.http.HttpClientBuilderImpl.build(HttpClientBuilderImpl.java:135)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.<init>(JdkHttpClient.java:151)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$Factory.createClient(JdkHttpClient.java:614)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:141)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:88)
+	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:49)
+	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:122)
+	at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:112)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:93)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:87)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
+	at testBase.BaseClass.setup(BaseClass.java:105)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.io.IOException: Unable to establish loopback connection
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:101)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:67)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at java.base/sun.nio.ch.PipeImpl.<init>(PipeImpl.java:195)
+	at java.base/sun.nio.ch.WEPollSelectorImpl.<init>(WEPollSelectorImpl.java:78)
+	at java.base/sun.nio.ch.WEPollSelectorProvider.openSelector(WEPollSelectorProvider.java:33)
+	at java.base/java.nio.channels.Selector.open(Selector.java:295)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.<init>(HttpClientImpl.java:1065)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.<init>(HttpClientImpl.java:487)
+	... 40 more
+Caused by: java.net.SocketException: Invalid argument: connect
+	at java.base/sun.nio.ch.UnixDomainSockets.connect0(Native Method)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:148)
+	at java.base/sun.nio.ch.UnixDomainSockets.connect(UnixDomainSockets.java:144)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:851)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at java.base/sun.nio.ch.PipeImpl$Initializer$LoopbackConnector.run(PipeImpl.java:131)
+	at java.base/sun.nio.ch.PipeImpl$Initializer.run(PipeImpl.java:83)
+	... 48 more

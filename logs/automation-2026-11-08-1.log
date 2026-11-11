@@ -1,0 +1,575 @@
+20:06:04.547 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+20:06:04.679 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+20:06:04.680 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration successful for: juzezdbn1794062157480@gmail.com
+20:06:04.681 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing My Account page
+20:06:04.681 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Logout
+20:06:05.351 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - User logged out successfully
+20:06:05.352 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing ExcelUtility
+20:06:05.431 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Writing registration details into Excel
+20:06:05.431 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+20:06:05.432 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Row: 9
+20:06:05.840 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+20:06:05.840 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+20:06:05.840 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+20:06:05.855 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+20:06:05.855 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing Page Object classes
+20:06:05.857 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on My Account
+20:06:06.093 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Register
+20:06:06.624 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration page opened successfully
+20:06:06.625 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generating random registration details
+20:06:06.627 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated First Name: SIKFLTJT
+20:06:06.629 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Last Name: SJOHJALM
+20:06:06.629 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Email: wuobcfym1794062166626@gmail.com
+20:06:06.629 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Telephone: 7275699439
+20:06:06.630 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Entering registration details
+20:06:08.035 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration details entered successfully
+20:06:08.035 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+20:06:08.262 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Accepting Privacy Policy
+20:06:08.483 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Continue button
+20:06:10.423 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration form submitted
+20:06:10.423 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+20:06:10.496 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+20:06:10.496 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration successful for: wuobcfym1794062166626@gmail.com
+20:06:10.497 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing My Account page
+20:06:10.497 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Logout
+20:06:11.130 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - User logged out successfully
+20:06:11.132 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing ExcelUtility
+20:06:11.195 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Writing registration details into Excel
+20:06:11.196 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+20:06:11.196 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Row: 10
+20:06:11.621 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+20:06:11.621 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+20:06:11.621 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+20:06:11.632 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+20:06:11.634 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing Page Object classes
+20:06:11.639 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on My Account
+20:06:11.997 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Register
+20:06:12.491 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration page opened successfully
+20:06:12.491 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generating random registration details
+20:06:12.493 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated First Name: TCWLWTNP
+20:06:12.493 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Last Name: TQLIZVMN
+20:06:12.493 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Email: uhzskkqd1794062172493@gmail.com
+20:06:12.493 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Generated Telephone: 0460909583
+20:06:12.493 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Entering registration details
+20:06:13.847 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration details entered successfully
+20:06:13.847 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+20:06:14.062 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Accepting Privacy Policy
+20:06:14.341 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Continue button
+20:06:15.930 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration form submitted
+20:06:15.930 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+20:06:16.008 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+20:06:16.010 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration successful for: uhzskkqd1794062172493@gmail.com
+20:06:16.011 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing My Account page
+20:06:16.011 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Clicking on Logout
+20:06:16.715 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - User logged out successfully
+20:06:16.716 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Initializing ExcelUtility
+20:06:16.831 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Writing registration details into Excel
+20:06:16.832 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+20:06:16.833 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Target Excel Row: 11
+20:06:17.519 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+20:06:17.520 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+20:06:17.521 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+20:06:17.526 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+20:06:18.456 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - Browser closed successfully
+20:06:18.457 [TestNG-test-Parallel Test Execution-2] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+20:06:39.021 [TestNG-test-Parallel Test Execution-3] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+20:06:39.511 [TestNG-test-Parallel Test Execution-3] INFO  testBase.BaseClass - Browser closed successfully
+20:06:39.513 [TestNG-test-Parallel Test Execution-3] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+12:15:02.473 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:15:02.535 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:15:02.555 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:15:02.555 [main] ERROR testBase.BaseClass - Registration test failed due to an exception
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source)
+	at pageObjects.homePage.clickActionBtn(homePage.java:27)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+12:15:02.559 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:15:02.570 [main] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+12:15:02.570 [main] INFO  testBase.BaseClass - Browser session was not initialized; nothing to close
+12:15:02.570 [main] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+12:15:02.573 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:15:02.576 [main] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+12:15:02.577 [main] INFO  testBase.BaseClass - Browser session was not initialized; nothing to close
+12:15:02.577 [main] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+12:16:54.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:16:54.301 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:16:54.322 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:16:54.323 [main] ERROR testBase.BaseClass - Registration test failed due to an exception
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source)
+	at pageObjects.homePage.clickActionBtn(homePage.java:27)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+12:16:54.327 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:16:54.340 [main] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+12:16:54.340 [main] INFO  testBase.BaseClass - Browser session was not initialized; nothing to close
+12:16:54.340 [main] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+12:16:54.344 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:16:54.349 [main] INFO  testBase.BaseClass - ===== Test Teardown Started =====
+12:16:54.349 [main] INFO  testBase.BaseClass - Browser session was not initialized; nothing to close
+12:16:54.349 [main] INFO  testBase.BaseClass - ===== Test Teardown Completed =====
+12:23:17.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:23:17.712 [main] INFO  testBase.BaseClass - =================================================
+12:23:17.712 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:23:17.712 [main] INFO  testBase.BaseClass - =================================================
+12:23:17.712 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:23:17.713 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:23:17.713 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:23:17.713 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:23:17.713 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:23:19.426 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:23:19.426 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:23:19.458 [main] INFO  testBase.BaseClass - Browser window maximized
+12:23:19.467 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:23:19.475 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:23:19.475 [main] INFO  testBase.BaseClass - Navigating to application...
+12:23:20.391 [main] INFO  testBase.BaseClass - Application opened successfully
+12:23:20.399 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:23:20.399 [main] INFO  testBase.BaseClass - =================================================
+12:23:20.399 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:23:20.399 [main] INFO  testBase.BaseClass - =================================================
+12:23:20.417 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:23:20.436 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:23:20.500 [main] INFO  testBase.BaseClass - Clicking on Register
+12:23:20.884 [main] INFO  testBase.BaseClass - Entering registration details
+12:23:20.884 [main] ERROR testBase.BaseClass - Registration test failed due to an exception
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because "this.txtfirstName" is null
+	at pageObjects.registerPage.setFirstName(registerPage.java:40)
+	at testCases.TC001_OpenCartRegistrationTest.registrationTest(TC001_OpenCartRegistrationTest.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+12:23:20.887 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:23:20.896 [main] INFO  testBase.BaseClass - =================================================
+12:23:20.897 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:23:20.897 [main] INFO  testBase.BaseClass - =================================================
+12:23:21.054 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:23:21.054 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:23:21.054 [main] INFO  testBase.BaseClass - =================================================
+12:23:21.054 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:23:21.054 [main] INFO  testBase.BaseClass - =================================================
+12:23:21.056 [main] INFO  testBase.BaseClass - =================================================
+12:23:21.056 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:23:21.056 [main] INFO  testBase.BaseClass - =================================================
+12:23:21.056 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:23:21.057 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:23:21.057 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:23:21.057 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:23:21.057 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:23:21.549 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:23:21.549 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:23:21.586 [main] INFO  testBase.BaseClass - Browser window maximized
+12:23:21.593 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:23:21.598 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:23:21.598 [main] INFO  testBase.BaseClass - Navigating to application...
+12:23:22.540 [main] INFO  testBase.BaseClass - Application opened successfully
+12:23:22.548 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:23:22.548 [main] INFO  testBase.BaseClass - =================================================
+12:23:22.548 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:23:22.548 [main] INFO  testBase.BaseClass - =================================================
+12:23:22.550 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:23:22.874 [main] INFO  testBase.BaseClass - Entering email address: jaspreet.singh@opkey.com
+12:23:22.879 [main] INFO  testBase.BaseClass - =================================================
+12:23:22.879 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:23:22.879 [main] INFO  testBase.BaseClass - =================================================
+12:23:23.033 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:23:23.033 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:23:23.033 [main] INFO  testBase.BaseClass - =================================================
+12:23:23.033 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:23:23.033 [main] INFO  testBase.BaseClass - =================================================
+12:25:45.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:25:45.332 [main] INFO  testBase.BaseClass - =================================================
+12:25:45.333 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:25:45.333 [main] INFO  testBase.BaseClass - =================================================
+12:25:45.333 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:25:45.333 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:25:45.334 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:25:45.334 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:25:45.334 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:25:46.220 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:25:46.220 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:25:46.264 [main] INFO  testBase.BaseClass - Browser window maximized
+12:25:46.275 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:25:46.278 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:25:46.278 [main] INFO  testBase.BaseClass - Navigating to application...
+12:25:47.090 [main] INFO  testBase.BaseClass - Application opened successfully
+12:25:47.097 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:25:47.098 [main] INFO  testBase.BaseClass - =================================================
+12:25:47.098 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:25:47.098 [main] INFO  testBase.BaseClass - =================================================
+12:25:47.107 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:25:47.120 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:25:47.180 [main] INFO  testBase.BaseClass - Clicking on Register
+12:25:47.553 [main] INFO  testBase.BaseClass - Entering registration details
+12:25:47.882 [main] INFO  testBase.BaseClass - Selecting newsletter option
+12:25:47.930 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:25:47.982 [main] INFO  testBase.BaseClass - Submitting registration form
+12:25:51.129 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:25:51.131 [main] INFO  testBase.BaseClass - Registration test passed successfully
+12:25:51.131 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:25:51.136 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.137 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:25:51.137 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.313 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:25:51.314 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:25:51.314 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.314 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:25:51.314 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.316 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.316 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:25:51.316 [main] INFO  testBase.BaseClass - =================================================
+12:25:51.316 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:25:51.316 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:25:51.316 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:25:51.317 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:25:51.317 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:25:51.800 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:25:51.800 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:25:51.846 [main] INFO  testBase.BaseClass - Browser window maximized
+12:25:51.855 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:25:51.858 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:25:51.858 [main] INFO  testBase.BaseClass - Navigating to application...
+12:25:52.673 [main] INFO  testBase.BaseClass - Application opened successfully
+12:25:52.681 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:25:52.681 [main] INFO  testBase.BaseClass - =================================================
+12:25:52.681 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:25:52.681 [main] INFO  testBase.BaseClass - =================================================
+12:25:52.683 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:25:53.033 [main] INFO  testBase.BaseClass - Entering email address: jaspreet.singh@opkey.com
+12:25:53.037 [main] INFO  testBase.BaseClass - =================================================
+12:25:53.037 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:25:53.037 [main] INFO  testBase.BaseClass - =================================================
+12:25:53.173 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:25:53.174 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:25:53.174 [main] INFO  testBase.BaseClass - =================================================
+12:25:53.174 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:25:53.174 [main] INFO  testBase.BaseClass - =================================================
+12:28:42.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:28:42.284 [main] INFO  testBase.BaseClass - =================================================
+12:28:42.284 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:28:42.284 [main] INFO  testBase.BaseClass - =================================================
+12:28:42.284 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:28:42.284 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:28:42.285 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:28:42.285 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:28:42.285 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:28:43.145 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:28:43.145 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:28:43.187 [main] INFO  testBase.BaseClass - Browser window maximized
+12:28:43.195 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:28:43.198 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:28:43.198 [main] INFO  testBase.BaseClass - Navigating to application...
+12:28:44.200 [main] INFO  testBase.BaseClass - Application opened successfully
+12:28:44.207 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:28:44.207 [main] INFO  testBase.BaseClass - =================================================
+12:28:44.207 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:28:44.207 [main] INFO  testBase.BaseClass - =================================================
+12:28:44.218 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:28:44.231 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:28:44.292 [main] INFO  testBase.BaseClass - Clicking on Register
+12:28:44.702 [main] INFO  testBase.BaseClass - Entering registration details
+12:28:44.995 [main] INFO  testBase.BaseClass - Selecting newsletter option
+12:28:45.037 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:28:45.080 [main] INFO  testBase.BaseClass - Submitting registration form
+12:28:46.757 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:28:46.760 [main] INFO  testBase.BaseClass - Registration test passed successfully
+12:28:46.760 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:28:46.765 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.765 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:28:46.765 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.929 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:28:46.929 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:28:46.930 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.930 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:28:46.930 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.932 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.932 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:28:46.932 [main] INFO  testBase.BaseClass - =================================================
+12:28:46.932 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:28:46.932 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:28:46.933 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:28:46.933 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:28:46.934 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:28:47.409 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:28:47.409 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:28:47.445 [main] INFO  testBase.BaseClass - Browser window maximized
+12:28:47.455 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:28:47.457 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:28:47.457 [main] INFO  testBase.BaseClass - Navigating to application...
+12:28:48.459 [main] INFO  testBase.BaseClass - Application opened successfully
+12:28:48.467 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:28:48.468 [main] INFO  testBase.BaseClass - =================================================
+12:28:48.468 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:28:48.468 [main] INFO  testBase.BaseClass - =================================================
+12:28:48.469 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:28:48.820 [main] INFO  testBase.BaseClass - Entering email address: jaspreet.singh@opkey.com
+12:28:49.000 [main] INFO  testBase.BaseClass - =================================================
+12:28:49.000 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:28:49.000 [main] INFO  testBase.BaseClass - =================================================
+12:28:49.141 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:28:49.142 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:28:49.142 [main] INFO  testBase.BaseClass - =================================================
+12:28:49.142 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:28:49.142 [main] INFO  testBase.BaseClass - =================================================
+12:32:14.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:32:14.803 [main] INFO  testBase.BaseClass - =================================================
+12:32:14.804 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:32:14.804 [main] INFO  testBase.BaseClass - =================================================
+12:32:14.804 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:32:14.804 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:32:14.805 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:32:14.805 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:32:14.805 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:32:15.688 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:32:15.688 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:32:15.724 [main] INFO  testBase.BaseClass - Browser window maximized
+12:32:15.733 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:32:15.737 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:32:15.737 [main] INFO  testBase.BaseClass - Navigating to application...
+12:32:16.615 [main] INFO  testBase.BaseClass - Application opened successfully
+12:32:16.623 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:32:16.623 [main] INFO  testBase.BaseClass - =================================================
+12:32:16.623 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:32:16.623 [main] INFO  testBase.BaseClass - =================================================
+12:32:16.633 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:32:16.648 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:32:16.722 [main] INFO  testBase.BaseClass - Clicking on Register
+12:32:17.083 [main] INFO  testBase.BaseClass - Entering registration details
+12:32:17.371 [main] INFO  testBase.BaseClass - Selecting newsletter option
+12:32:17.414 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:32:17.456 [main] INFO  testBase.BaseClass - Submitting registration form
+12:32:19.493 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:32:19.496 [main] INFO  testBase.BaseClass - Registration test passed successfully
+12:32:19.496 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:32:19.502 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.502 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:32:19.503 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.668 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:32:19.669 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:32:19.669 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.669 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:32:19.669 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.673 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.673 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:32:19.673 [main] INFO  testBase.BaseClass - =================================================
+12:32:19.673 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:32:19.674 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:32:19.675 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:32:19.675 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:32:19.675 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:32:20.239 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:32:20.239 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:32:20.275 [main] INFO  testBase.BaseClass - Browser window maximized
+12:32:20.285 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:32:20.288 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:32:20.289 [main] INFO  testBase.BaseClass - Navigating to application...
+12:32:21.341 [main] INFO  testBase.BaseClass - Application opened successfully
+12:32:21.350 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:32:21.350 [main] INFO  testBase.BaseClass - =================================================
+12:32:21.350 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:32:21.351 [main] INFO  testBase.BaseClass - =================================================
+12:32:21.353 [main] INFO  testBase.BaseClass - ===== Starting Simple Login Test =====
+12:32:21.696 [main] INFO  testBase.BaseClass - Entering email address: jaspreet.singh@opkey.com
+12:32:22.906 [main] INFO  testBase.BaseClass - Login successful!
+12:32:23.388 [main] INFO  testBase.BaseClass - ===== Simple Login Test Completed Successfully =====
+12:32:23.391 [main] INFO  testBase.BaseClass - =================================================
+12:32:23.391 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:32:23.391 [main] INFO  testBase.BaseClass - =================================================
+12:32:23.543 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:32:23.543 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:32:23.543 [main] INFO  testBase.BaseClass - =================================================
+12:32:23.543 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:32:23.543 [main] INFO  testBase.BaseClass - =================================================
+12:33:39.198 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grouping.xml
+
+12:33:39.238 [main] INFO  testBase.BaseClass - =================================================
+12:33:39.238 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:33:39.238 [main] INFO  testBase.BaseClass - =================================================
+12:33:39.238 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:33:39.238 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:33:39.239 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:33:39.239 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:33:39.239 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:33:40.261 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:33:40.261 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:33:40.301 [main] INFO  testBase.BaseClass - Browser window maximized
+12:33:40.309 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:33:40.313 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:33:40.313 [main] INFO  testBase.BaseClass - Navigating to application...
+12:33:41.220 [main] INFO  testBase.BaseClass - Application opened successfully
+12:33:41.231 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:33:41.231 [main] INFO  testBase.BaseClass - =================================================
+12:33:41.231 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:33:41.231 [main] INFO  testBase.BaseClass - =================================================
+12:33:41.246 [main] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+12:33:41.267 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:41.341 [main] INFO  testBase.BaseClass - Clicking on Register
+12:33:41.727 [main] INFO  testBase.BaseClass - Entering registration details
+12:33:42.205 [main] INFO  testBase.BaseClass - Selecting newsletter option
+12:33:42.338 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:33:42.400 [main] INFO  testBase.BaseClass - Submitting registration form
+12:33:44.806 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:33:44.811 [main] INFO  testBase.BaseClass - Registration test passed successfully
+12:33:44.812 [main] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+12:33:44.818 [main] INFO  testBase.BaseClass - =================================================
+12:33:44.819 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+12:33:44.819 [main] INFO  testBase.BaseClass - =================================================
+12:33:45.003 [main] INFO  testBase.BaseClass - Browser closed successfully
+12:33:45.003 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+12:33:45.003 [main] INFO  testBase.BaseClass - =================================================
+12:33:45.003 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+12:33:45.003 [main] INFO  testBase.BaseClass - =================================================
+12:33:45.005 [main] INFO  testBase.BaseClass - =================================================
+12:33:45.006 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+12:33:45.006 [main] INFO  testBase.BaseClass - =================================================
+12:33:45.006 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+12:33:45.006 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+12:33:45.007 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+12:33:45.007 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+12:33:45.007 [main] INFO  testBase.BaseClass - Selected browser: chrome
+12:33:45.660 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+12:33:45.660 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+12:33:45.765 [main] INFO  testBase.BaseClass - Browser window maximized
+12:33:45.775 [main] INFO  testBase.BaseClass - All browser cookies deleted
+12:33:45.779 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+12:33:45.779 [main] INFO  testBase.BaseClass - Navigating to application...
+12:33:46.664 [main] INFO  testBase.BaseClass - Application opened successfully
+12:33:46.673 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+12:33:46.673 [main] INFO  testBase.BaseClass - =================================================
+12:33:46.674 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+12:33:46.674 [main] INFO  testBase.BaseClass - =================================================
+12:33:46.676 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+12:33:46.676 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+12:33:46.680 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:46.768 [main] INFO  testBase.BaseClass - Clicking on Register
+12:33:47.156 [main] INFO  testBase.BaseClass - Registration page opened successfully
+12:33:47.157 [main] INFO  testBase.BaseClass - Generating random registration details
+12:33:47.158 [main] INFO  testBase.BaseClass - Generated First Name: YGXSYIVD
+12:33:47.158 [main] INFO  testBase.BaseClass - Generated Last Name: OUZSFJDS
+12:33:47.158 [main] INFO  testBase.BaseClass - Generated Email: qmmfshpp1794121427157@gmail.com
+12:33:47.158 [main] INFO  testBase.BaseClass - Generated Telephone: 2892709245
+12:33:47.158 [main] INFO  testBase.BaseClass - Entering registration details
+12:33:47.487 [main] INFO  testBase.BaseClass - Registration details entered successfully
+12:33:47.487 [main] INFO  testBase.BaseClass - Selecting Yes for Newsletter
+12:33:47.534 [main] INFO  testBase.BaseClass - Accepting Privacy Policy
+12:33:47.585 [main] INFO  testBase.BaseClass - Clicking on Continue button
+12:33:48.721 [main] INFO  testBase.BaseClass - Registration form submitted
+12:33:48.721 [main] INFO  testBase.BaseClass - Verifying registration confirmation message
+12:33:48.750 [main] INFO  testBase.BaseClass - Actual Confirmation Message: Your Account Has Been Created!
+12:33:48.750 [main] INFO  testBase.BaseClass - Registration successful for: qmmfshpp1794121427157@gmail.com
+12:33:48.750 [main] INFO  testBase.BaseClass - Initializing My Account page
+12:33:48.752 [main] INFO  testBase.BaseClass - Clicking on Logout
+12:33:49.147 [main] INFO  testBase.BaseClass - User logged out successfully
+12:33:49.147 [main] INFO  testBase.BaseClass - Initializing ExcelUtility
+12:33:50.427 [main] INFO  testBase.BaseClass - Writing registration details into Excel
+12:33:50.427 [main] INFO  testBase.BaseClass - Target Excel Sheet: Sheet3
+12:33:50.427 [main] INFO  testBase.BaseClass - Target Excel Row: 12
+12:33:50.791 [main] INFO  testBase.BaseClass - Registration data saved successfully in Excel
+12:33:50.791 [main] INFO  testBase.BaseClass - ========== Registration DDT Test Passed ==========
+12:33:50.791 [main] INFO  testBase.BaseClass - ========== Registration DDT Execution Completed ==========
+12:33:50.802 [main] INFO  testBase.BaseClass - ========== Starting Registration DDT Test ==========
+12:33:50.802 [main] INFO  testBase.BaseClass - Initializing Page Object classes
+12:33:50.803 [main] INFO  testBase.BaseClass - Clicking on My Account
+12:33:50.887 [main] INFO  testBase.BaseClass - Clicking on Register
+12:33:51.173 [main] INFO  testBase.BaseClass - Registration page opened successfully
+12:33:51.173 [main] INFO  testBase.BaseClass - Generating random registration details
+12:33:51.174 [main] INFO  testBase.BaseClass - Generated First Name: JACDFCPP
+12:33:51.174 [main] INFO  testBase.BaseClass - Generated Last Name: CSWOWHYQ
+12:33:51.174 [main] INFO  testBase.BaseClass - Generated Email: eejduwox1794121431174@gmail.com

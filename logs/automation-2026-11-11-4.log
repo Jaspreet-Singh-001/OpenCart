@@ -1,0 +1,515 @@
+17:57:20.813 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:57:20.822 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:57:20.926 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:57:21.132 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:57:21.147 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:57:21.147 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:57:22.609 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:57:22.634 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:57:22.634 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:22.634 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:57:22.634 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:23.771 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+17:57:28.190 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+17:57:31.678 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+17:57:35.162 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+17:57:36.303 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+17:57:37.303 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.304 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:57:37.304 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.480 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:57:37.481 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:57:37.481 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.481 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:57:37.482 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.483 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.483 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:57:37.483 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:37.483 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:57:37.483 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:57:37.484 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:57:37.484 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:57:37.484 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:57:38.716 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+17:57:38.716 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:57:38.716 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:57:38.764 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:57:39.066 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:57:39.078 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:57:39.078 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:57:40.305 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:57:40.372 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:57:40.372 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:40.372 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:57:40.372 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:40.375 [TestNG-tests-1] INFO  testBase.BaseClass - Starting simple login test
+17:57:43.113 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded
+17:57:43.662 [TestNG-tests-1] INFO  testBase.BaseClass - Simple login test completed
+17:57:43.665 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.665 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:57:43.665 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.832 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:57:43.833 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:57:43.833 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.833 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:57:43.834 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.835 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.836 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:57:43.836 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:43.836 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:57:43.836 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:57:43.837 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:57:43.837 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:57:43.837 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:57:45.305 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+17:57:45.305 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:57:45.305 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:57:45.362 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:57:45.597 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:57:45.610 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:57:45.610 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:57:46.947 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:57:46.975 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:57:46.975 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:46.976 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:57:46.976 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:46.982 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:46.983 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:57:46.983 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:48.213 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:57:48.213 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:57:48.213 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:48.213 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:57:48.214 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:57:48.904 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_143040_140.html
+17:59:42.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Jaspreet\OpenCart\grid-docker.xml
+
+17:59:42.332 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Chrome_20261111_175942_096.html
+17:59:42.332 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Firefox_20261111_175942_096.html
+17:59:42.378 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:42.378 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:59:42.378 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:59:42.378 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:42.378 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:59:42.378 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:59:42.379 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:59:42.379 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:59:42.379 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:59:42.379 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:59:42.380 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:59:42.380 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:59:42.381 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:59:42.381 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: firefox
+17:59:42.381 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:59:42.382 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:59:45.242 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+17:59:45.243 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:59:45.243 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:59:45.427 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:59:45.512 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:59:45.539 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:59:45.540 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:59:47.994 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+17:59:48.064 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:59:48.065 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:48.066 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:59:48.067 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:48.112 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:59:48.320 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+17:59:48.585 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+17:59:49.789 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+17:59:51.627 [TestNG-tests-1] INFO  testBase.BaseClass - Selecting newsletter option
+17:59:51.899 [TestNG-tests-1] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:59:52.142 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration form
+17:59:53.484 [TestNG-tests-2] INFO  testBase.BaseClass - Remote WebDriver requested: browser=firefox, os=Linux, grid=http://localhost:4444
+17:59:53.485 [TestNG-tests-2] INFO  testBase.BaseClass - firefox browser launched successfully
+17:59:53.497 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+17:59:53.814 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+17:59:53.847 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+17:59:53.921 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:59:53.921 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+17:59:54.652 [TestNG-tests-1] INFO  testBase.BaseClass - Verifying registration confirmation message
+17:59:54.657 [TestNG-tests-1] INFO  testBase.BaseClass - Registration test passed successfully
+17:59:54.663 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+17:59:54.705 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.706 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+17:59:54.706 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.830 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+17:59:54.830 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+17:59:54.830 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.831 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+17:59:54.831 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.835 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.837 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+17:59:54.837 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+17:59:54.837 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+17:59:54.838 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+17:59:54.838 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+17:59:54.839 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+17:59:54.839 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+17:59:55.355 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+17:59:55.397 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+17:59:55.397 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:59:55.397 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+17:59:55.397 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+17:59:55.406 [TestNG-tests-2] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+17:59:55.412 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on My Account
+17:59:55.747 [TestNG-tests-2] INFO  testBase.BaseClass - Clicking on Register
+17:59:56.002 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+17:59:56.008 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+17:59:56.009 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+17:59:56.135 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+17:59:56.169 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+17:59:56.228 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+17:59:56.228 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+17:59:56.752 [TestNG-tests-2] INFO  testBase.BaseClass - Entering registration details
+17:59:57.490 [TestNG-tests-2] INFO  testBase.BaseClass - Selecting newsletter option
+17:59:57.662 [TestNG-tests-2] INFO  testBase.BaseClass - Accepting Privacy Policy
+17:59:57.781 [TestNG-tests-2] INFO  testBase.BaseClass - Submitting registration form
+18:00:00.191 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:00.213 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:00.213 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:00.213 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:00.213 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:00.216 [TestNG-tests-1] INFO  testBase.BaseClass - Starting simple login test
+18:00:07.334 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded
+18:00:07.362 [TestNG-tests-2] INFO  testBase.BaseClass - Verifying registration confirmation message
+18:00:07.363 [TestNG-tests-2] INFO  testBase.BaseClass - Registration test passed successfully
+18:00:07.363 [TestNG-tests-2] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+18:00:07.365 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:07.365 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:07.366 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:07.857 [TestNG-tests-1] INFO  testBase.BaseClass - Simple login test completed
+18:00:07.874 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:07.876 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:07.876 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:08.009 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:00:08.009 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:08.009 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:08.009 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:08.010 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:08.129 [TestNG-tests-2] INFO  testBase.BaseClass - Browser closed successfully
+18:00:08.129 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:08.129 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:08.130 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:08.130 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:08.131 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:08.131 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:08.131 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:08.131 [TestNG-tests-2] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:08.132 [TestNG-tests-2] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:08.132 [TestNG-tests-2] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:08.134 [TestNG-tests-2] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:08.134 [TestNG-tests-2] INFO  testBase.BaseClass - Selected browser: firefox
+18:00:08.740 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Chrome_20261111_175942_096.html
+18:00:09.055 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_180009_048.html
+18:00:09.088 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:09.089 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:09.090 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:09.090 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:09.090 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:09.101 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:09.102 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:09.102 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+18:00:10.569 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+18:00:10.569 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+18:00:10.570 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:10.677 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+18:00:10.723 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:10.780 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:10.781 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+18:00:11.941 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:11.973 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:11.974 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:11.974 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:11.974 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:11.976 [TestNG-tests-1] INFO  testBase.BaseClass - ===== Starting OpenCart Registration Test =====
+18:00:11.979 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on My Account
+18:00:12.209 [TestNG-tests-1] INFO  testBase.BaseClass - Clicking on Register
+18:00:12.888 [TestNG-tests-1] INFO  testBase.BaseClass - Entering registration details
+18:00:13.835 [TestNG-tests-2] INFO  testBase.BaseClass - Remote WebDriver requested: browser=firefox, os=Linux, grid=http://localhost:4444
+18:00:13.837 [TestNG-tests-2] INFO  testBase.BaseClass - firefox browser launched successfully
+18:00:13.837 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:14.188 [TestNG-tests-2] INFO  testBase.BaseClass - Browser window maximized
+18:00:14.222 [TestNG-tests-2] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:14.291 [TestNG-tests-2] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:14.291 [TestNG-tests-1] INFO  testBase.BaseClass - Selecting newsletter option
+18:00:14.291 [TestNG-tests-2] INFO  testBase.BaseClass - Navigating to application...
+18:00:14.557 [TestNG-tests-1] INFO  testBase.BaseClass - Accepting Privacy Policy
+18:00:14.772 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration form
+18:00:15.565 [TestNG-tests-2] INFO  testBase.BaseClass - Application opened successfully
+18:00:15.588 [TestNG-tests-2] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:15.589 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:15.589 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:15.589 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:15.592 [TestNG-tests-2] INFO  testBase.BaseClass - Starting simple login test
+18:00:16.281 [TestNG-tests-1] INFO  testBase.BaseClass - Verifying registration confirmation message
+18:00:16.282 [TestNG-tests-1] INFO  testBase.BaseClass - Registration test passed successfully
+18:00:16.282 [TestNG-tests-1] INFO  testBase.BaseClass - ===== OpenCart Registration Test Execution Completed =====
+18:00:16.292 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.292 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:16.292 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.376 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:00:16.377 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:16.378 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.378 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:16.378 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.384 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.384 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:16.385 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:16.385 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:16.385 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:16.388 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:16.388 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:16.389 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+18:00:17.374 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+18:00:17.374 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+18:00:17.375 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:17.452 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+18:00:17.475 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:17.535 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:17.535 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+18:00:18.500 [TestNG-tests-2] INFO  testBase.BaseClass - Login succeeded
+18:00:18.751 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:18.780 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:18.780 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:18.780 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:18.780 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:18.788 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+18:00:18.992 [TestNG-tests-2] INFO  testBase.BaseClass - Simple login test completed
+18:00:18.994 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:18.995 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:18.995 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:19.636 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for rgwhrwsl1794400219634@gmail.com
+18:00:19.961 [TestNG-tests-2] INFO  testBase.BaseClass - Browser closed successfully
+18:00:19.961 [TestNG-tests-2] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:19.961 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:19.962 [TestNG-tests-2] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:19.962 [TestNG-tests-2] INFO  testBase.BaseClass - =================================================
+18:00:20.131 [TestNG-tests-2] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Docker_Linux_Firefox_20261111_175942_096.html
+18:00:22.410 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for rgwhrwsl1794400219634@gmail.com
+18:00:23.872 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 55
+18:00:23.877 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+18:00:24.352 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for zcobgzxd1794400224351@gmail.com
+18:00:26.571 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for zcobgzxd1794400224351@gmail.com
+18:00:27.233 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 56
+18:00:27.236 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+18:00:27.662 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for vtdxwfpj1794400227662@gmail.com
+18:00:30.035 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for vtdxwfpj1794400227662@gmail.com
+18:00:30.598 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 57
+18:00:30.601 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+18:00:31.105 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for frcgdbks1794400231105@gmail.com
+18:00:33.477 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for frcgdbks1794400231105@gmail.com
+18:00:33.986 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 58
+18:00:33.989 [TestNG-tests-1] INFO  testBase.BaseClass - Starting Registration DDT test
+18:00:34.453 [TestNG-tests-1] INFO  testBase.BaseClass - Submitting registration for xcvnivtx1794400234453@gmail.com
+18:00:36.628 [TestNG-tests-1] INFO  testBase.BaseClass - Registration succeeded for xcvnivtx1794400234453@gmail.com
+18:00:37.184 [TestNG-tests-1] INFO  testBase.BaseClass - Saved registration credentials to Sheet3 row 59
+18:00:37.187 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.187 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:37.187 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.266 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:00:37.266 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:37.266 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.266 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:37.266 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.268 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.268 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:37.268 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:37.268 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:37.268 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:37.269 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:37.270 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:37.270 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+18:00:37.696 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+18:00:37.697 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+18:00:37.697 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:37.731 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+18:00:37.745 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:37.801 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:37.801 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+18:00:38.788 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:38.803 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:38.803 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:38.803 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:38.803 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:39.226 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+18:00:41.841 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+18:00:44.058 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+18:00:46.489 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Invalid
+18:00:47.067 [TestNG-tests-1] INFO  testBase.BaseClass - Checking login data marked as Valid
+18:00:47.646 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.646 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:47.646 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.721 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:00:47.721 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:47.721 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.721 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:47.722 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.723 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.723 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:47.723 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:47.723 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:47.723 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:47.724 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:47.724 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:47.724 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+18:00:48.111 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+18:00:48.111 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+18:00:48.111 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:48.150 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+18:00:48.165 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:48.216 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:48.217 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+18:00:49.052 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:49.068 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:49.068 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:49.068 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:49.068 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:49.069 [TestNG-tests-1] INFO  testBase.BaseClass - Starting simple login test
+18:00:50.997 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded
+18:00:51.484 [TestNG-tests-1] INFO  testBase.BaseClass - Simple login test completed
+18:00:51.486 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.486 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:00:51.486 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.568 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:00:51.569 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:00:51.569 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.569 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:00:51.569 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.571 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.572 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:00:51.572 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:51.572 [TestNG-tests-1] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:00:51.572 [TestNG-tests-1] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:00:51.573 [TestNG-tests-1] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:00:51.573 [TestNG-tests-1] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:00:51.573 [TestNG-tests-1] INFO  testBase.BaseClass - Selected browser: chrome
+18:00:52.222 [TestNG-tests-1] INFO  testBase.BaseClass - Remote WebDriver requested: browser=chrome, os=Linux, grid=http://localhost:4444
+18:00:52.222 [TestNG-tests-1] INFO  testBase.BaseClass - chrome browser launched successfully
+18:00:52.222 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver initialized: true
+18:00:52.287 [TestNG-tests-1] INFO  testBase.BaseClass - Browser window maximized
+18:00:52.308 [TestNG-tests-1] INFO  testBase.BaseClass - All browser cookies deleted
+18:00:52.360 [TestNG-tests-1] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:00:52.360 [TestNG-tests-1] INFO  testBase.BaseClass - Navigating to application...
+18:00:53.204 [TestNG-tests-1] INFO  testBase.BaseClass - Application opened successfully
+18:00:53.223 [TestNG-tests-1] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:00:53.223 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:53.223 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:00:53.223 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:00:53.722 [TestNG-tests-1] INFO  testBase.BaseClass - Loaded the latest 5 generated accounts from Sheet3
+18:00:56.635 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 1
+18:01:00.396 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 2
+18:01:03.296 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 3
+18:01:06.239 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 4
+18:01:09.679 [TestNG-tests-1] INFO  testBase.BaseClass - Login succeeded for generated account record 5
+18:01:10.225 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:01:10.225 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:01:10.225 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:01:10.299 [TestNG-tests-1] INFO  testBase.BaseClass - Browser closed successfully
+18:01:10.299 [TestNG-tests-1] INFO  testBase.BaseClass - WebDriver reference set to null
+18:01:10.299 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:01:10.299 [TestNG-tests-1] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:01:10.300 [TestNG-tests-1] INFO  testBase.BaseClass - =================================================
+18:01:10.368 [TestNG-tests-1] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_180009_048.html
+18:33:18.563 [main] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_183318_383.html
+18:33:18.590 [main] INFO  testBase.BaseClass - =================================================
+18:33:18.590 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+18:33:18.590 [main] INFO  testBase.BaseClass - =================================================
+18:33:18.590 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+18:33:18.590 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+18:33:18.591 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+18:33:18.591 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+18:33:18.591 [main] INFO  testBase.BaseClass - Selected browser: chrome
+18:33:20.549 [main] INFO  testBase.BaseClass - Local chrome browser requested
+18:33:20.550 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+18:33:20.550 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+18:33:20.588 [main] INFO  testBase.BaseClass - Browser window maximized
+18:33:20.597 [main] INFO  testBase.BaseClass - All browser cookies deleted
+18:33:20.602 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+18:33:20.602 [main] INFO  testBase.BaseClass - Navigating to application...
+18:33:21.640 [main] INFO  testBase.BaseClass - Application opened successfully
+18:33:21.649 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+18:33:21.649 [main] INFO  testBase.BaseClass - =================================================
+18:33:21.650 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+18:33:21.650 [main] INFO  testBase.BaseClass - =================================================
+18:33:21.663 [main] INFO  testBase.BaseClass - Starting simple login test
+18:33:24.109 [main] INFO  testBase.BaseClass - Login succeeded
+18:33:24.450 [main] INFO  testBase.BaseClass - Simple login test completed
+18:33:24.463 [main] INFO  testBase.BaseClass - =================================================
+18:33:24.464 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+18:33:24.464 [main] INFO  testBase.BaseClass - =================================================
+18:33:24.680 [main] INFO  testBase.BaseClass - Browser closed successfully
+18:33:24.680 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+18:33:24.680 [main] INFO  testBase.BaseClass - =================================================
+18:33:24.680 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+18:33:24.680 [main] INFO  testBase.BaseClass - =================================================
+18:33:24.935 [main] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_183318_383.html
+19:16:16.543 [main] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_191616_152.html
+19:16:16.594 [main] INFO  testBase.BaseClass - =================================================
+19:16:16.594 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+19:16:16.595 [main] INFO  testBase.BaseClass - =================================================
+19:16:16.595 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+19:16:16.595 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+19:16:16.597 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+19:16:16.597 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+19:16:16.597 [main] INFO  testBase.BaseClass - Selected browser: chrome
+19:16:18.708 [main] INFO  testBase.BaseClass - Local chrome browser requested
+19:16:18.709 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+19:16:18.710 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+19:16:18.811 [main] INFO  testBase.BaseClass - Browser window maximized
+19:16:18.853 [main] INFO  testBase.BaseClass - All browser cookies deleted
+19:16:18.867 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+19:16:18.867 [main] INFO  testBase.BaseClass - Navigating to application...
+19:16:20.152 [main] INFO  testBase.BaseClass - Application opened successfully
+19:16:20.170 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+19:16:20.171 [main] INFO  testBase.BaseClass - =================================================
+19:16:20.172 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+19:16:20.172 [main] INFO  testBase.BaseClass - =================================================
+19:16:20.226 [main] INFO  testBase.BaseClass - Starting simple login test
+19:16:22.856 [main] INFO  testBase.BaseClass - Login succeeded
+19:16:23.329 [main] INFO  testBase.BaseClass - Simple login test completed
+19:16:23.370 [main] INFO  testBase.BaseClass - =================================================
+19:16:23.370 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+19:16:23.370 [main] INFO  testBase.BaseClass - =================================================
+19:16:23.683 [main] INFO  testBase.BaseClass - Browser closed successfully
+19:16:23.683 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+19:16:23.684 [main] INFO  testBase.BaseClass - =================================================
+19:16:23.684 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+19:16:23.684 [main] INFO  testBase.BaseClass - =================================================
+19:16:24.181 [main] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_191616_152.html
+19:17:27.471 [main] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_191727_084.html
+19:17:27.530 [main] INFO  testBase.BaseClass - =================================================
+19:17:27.530 [main] INFO  testBase.BaseClass -           TEST SETUP STARTED
+19:17:27.531 [main] INFO  testBase.BaseClass - =================================================
+19:17:27.531 [main] INFO  testBase.BaseClass - BeforeClass setup() method execution started
+19:17:27.531 [main] INFO  testBase.BaseClass - Initial WebDriver value: null
+19:17:27.532 [main] INFO  testBase.BaseClass - Configuration properties loaded successfully
+19:17:27.533 [main] INFO  testBase.BaseClass - Application URL: https://tutorialsninja.com/demo/
+19:17:27.533 [main] INFO  testBase.BaseClass - Selected browser: chrome
+19:17:30.011 [main] INFO  testBase.BaseClass - Local chrome browser requested
+19:17:30.012 [main] INFO  testBase.BaseClass - chrome browser launched successfully
+19:17:30.012 [main] INFO  testBase.BaseClass - WebDriver initialized: true
+19:17:30.105 [main] INFO  testBase.BaseClass - Browser window maximized
+19:17:30.134 [main] INFO  testBase.BaseClass - All browser cookies deleted
+19:17:30.147 [main] INFO  testBase.BaseClass - Implicit wait configured: 10 seconds
+19:17:30.148 [main] INFO  testBase.BaseClass - Navigating to application...
+19:17:31.249 [main] INFO  testBase.BaseClass - Application opened successfully
+19:17:31.264 [main] INFO  testBase.BaseClass - Current URL: https://tutorialsninja.com/demo/
+19:17:31.265 [main] INFO  testBase.BaseClass - =================================================
+19:17:31.265 [main] INFO  testBase.BaseClass -           TEST SETUP COMPLETED
+19:17:31.265 [main] INFO  testBase.BaseClass - =================================================
+19:17:31.310 [main] INFO  testBase.BaseClass - Starting simple login test
+19:17:36.494 [main] INFO  testBase.BaseClass - Login succeeded
+19:17:37.158 [main] INFO  testBase.BaseClass - Simple login test completed
+19:17:37.212 [main] INFO  testBase.BaseClass - =================================================
+19:17:37.213 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+19:17:37.214 [main] INFO  testBase.BaseClass - =================================================
+19:17:38.496 [main] INFO  testBase.BaseClass - Browser closed successfully
+19:17:38.496 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+19:17:38.497 [main] INFO  testBase.BaseClass - =================================================
+19:17:38.497 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+19:17:38.497 [main] INFO  testBase.BaseClass - =================================================
+19:17:39.399 [main] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_191727_084.html
+19:19:31.229 [main] INFO  utilities.ExtentReportManager - Extent report started: C:\Jaspreet\OpenCart\reports\TestNGReport_Register_five_users_then_verify_login_20261111_191931_001.html

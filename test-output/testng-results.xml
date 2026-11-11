@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-11T20:17:44 IST" name="Master Suite" finished-at="2026-11-11T20:18:23 IST" duration-ms="38575">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_OpenCartRegistrationDDT.registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" name="registrationDDT" class="testCases.TC002_OpenCartRegistrationDDT"/>
+        <method signature="TC005_RegistrationLoginDependencyTest.verifyLatestGeneratedRegistrationsCanLogin()[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" name="verifyLatestGeneratedRegistrationsCanLogin" class="testCases.TC005_RegistrationLoginDependencyTest"/>
+      </group> <!-- Master -->
+      <group name="GeneratedRegistration">
+        <method signature="TC002_OpenCartRegistrationDDT.registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" name="registrationDDT" class="testCases.TC002_OpenCartRegistrationDDT"/>
+      </group> <!-- GeneratedRegistration -->
+      <group name="Regression">
+        <method signature="TC005_RegistrationLoginDependencyTest.verifyLatestGeneratedRegistrationsCanLogin()[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" name="verifyLatestGeneratedRegistrationsCanLogin" class="testCases.TC005_RegistrationLoginDependencyTest"/>
+      </group> <!-- Regression -->
+      <group name="DataDriven">
+        <method signature="TC002_OpenCartRegistrationDDT.registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" name="registrationDDT" class="testCases.TC002_OpenCartRegistrationDDT"/>
+        <method signature="TC005_RegistrationLoginDependencyTest.verifyLatestGeneratedRegistrationsCanLogin()[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" name="verifyLatestGeneratedRegistrationsCanLogin" class="testCases.TC005_RegistrationLoginDependencyTest"/>
+      </group> <!-- DataDriven -->
+    </groups>
+    <test started-at="2026-11-11T20:17:44 IST" name="Grouping Test Execution" finished-at="2026-11-11T20:18:23 IST" duration-ms="38575">
+      <class name="testCases.TC002_OpenCartRegistrationDDT">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:17:44 IST" name="setup" finished-at="2026-11-11T20:17:47 IST" duration-ms="2598" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:17:47 IST" name="registrationDDT" finished-at="2026-11-11T20:17:52 IST" duration-ms="5221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationDDT -->
+        <test-method signature="registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:17:52 IST" name="registrationDDT" finished-at="2026-11-11T20:17:56 IST" duration-ms="3224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationDDT -->
+        <test-method signature="registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:17:56 IST" name="registrationDDT" finished-at="2026-11-11T20:18:00 IST" duration-ms="4143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationDDT -->
+        <test-method signature="registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:18:00 IST" name="registrationDDT" finished-at="2026-11-11T20:18:03 IST" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationDDT -->
+        <test-method signature="registrationDDT()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:18:03 IST" name="registrationDDT" finished-at="2026-11-11T20:18:06 IST" duration-ms="2888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_OpenCartRegistrationDDT@3d1848cc]" started-at="2026-11-11T20:18:06 IST" name="tearDown" finished-at="2026-11-11T20:18:06 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_OpenCartRegistrationDDT -->
+      <class name="testCases.TC005_RegistrationLoginDependencyTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" started-at="2026-11-11T20:18:06 IST" name="setup" finished-at="2026-11-11T20:18:09 IST" duration-ms="2044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLatestGeneratedRegistrationsCanLogin()[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" started-at="2026-11-11T20:18:09 IST" name="verifyLatestGeneratedRegistrationsCanLogin" depends-on-groups="GeneratedRegistration" finished-at="2026-11-11T20:18:22 IST" duration-ms="13906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLatestGeneratedRegistrationsCanLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_RegistrationLoginDependencyTest@79517588]" started-at="2026-11-11T20:18:22 IST" name="tearDown" finished-at="2026-11-11T20:18:23 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC005_RegistrationLoginDependencyTest -->
+    </test> <!-- Grouping Test Execution -->
+  </suite> <!-- Master Suite -->
+</testng-results>

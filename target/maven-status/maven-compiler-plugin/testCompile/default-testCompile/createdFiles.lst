@@ -1,0 +1,15 @@
+testCases\TC005_RegistrationLoginDependencyTest.class
+pageObjects\loginPage.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+testCases\TC004_SimpleLoginTest.class
+utilities\ExtentReportManager$ReportSession.class
+testCases\TC001_OpenCartRegistrationTest.class
+pageObjects\base.class
+pageObjects\homePage.class
+testCases\TC003_LoginDDT.class
+pageObjects\myAccountPage.class
+utilities\ExtentReportManager.class
+testCases\TC002_OpenCartRegistrationDDT.class
+utilities\DataProviders.class
+pageObjects\registerPage.class

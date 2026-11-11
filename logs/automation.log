@@ -1,0 +1,9 @@
+20:18:22.919 [main] INFO  testBase.BaseClass - =================================================
+20:18:22.930 [main] INFO  testBase.BaseClass -           TEST TEARDOWN STARTED
+20:18:22.930 [main] INFO  testBase.BaseClass - =================================================
+20:18:23.223 [main] INFO  testBase.BaseClass - Browser closed successfully
+20:18:23.223 [main] INFO  testBase.BaseClass - WebDriver reference set to null
+20:18:23.224 [main] INFO  testBase.BaseClass - =================================================
+20:18:23.224 [main] INFO  testBase.BaseClass -           TEST TEARDOWN COMPLETED
+20:18:23.224 [main] INFO  testBase.BaseClass - =================================================
+20:18:23.596 [main] INFO  utilities.ExtentReportManager - Extent report saved: C:\Jaspreet\OpenCart\reports\TestNGReport_Grouping_Test_Execution_20261111_201744_694.html
