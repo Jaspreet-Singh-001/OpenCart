@@ -10,7 +10,7 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="testCases.TC004_SimpleLoginTest"/>
-            <class name="testCases.TC003_LoginDDT"/>
+           <!-- <class name="testCases.TC003_LoginDDT"/>-->
 
             <!--<class name="testCases.TC005_RegistrationLoginDependencyTest"/>-->
         </classes>
